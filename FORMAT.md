@@ -100,7 +100,7 @@ Un mot cible dans `words` :
 ### Le livre (levels.json)
 
 640 pages en 40 chapitres de 16 pages ; la dernière page de chaque chapitre est un
-`freisatz`. 5,967 mots cibles et 61,575 mots bonus.
+`freisatz`. 5,963 mots cibles et 61,579 mots bonus.
 
 ### Les grilles du jour (daily.json)
 
