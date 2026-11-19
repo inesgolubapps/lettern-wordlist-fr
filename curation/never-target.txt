@@ -1,0 +1,1553 @@
+# Formen (Steinschreibung), die gültige Extrawörter bleiben, aber nie Zielwörter werden
+# (Zielwort = das Spiel *verlangt* das Wort). Format: form  # Grund
+# Jede Entscheidung steht auch in kuratierung.tsv.
+
+# --- Kuratierung Durchgang 1 (2026-11-18): fünf Agenten über die Kandidaten aus Lexique ∩ Schwellen,
+# Prüffrage „kennt man das in Frankreich, Belgien, der Schweiz UND Québec, und passt es als Pflichtwort
+# in ein ruhiges Rätsel?“; Zweifelsfälle vom Koordinator entschieden (kuratierung.tsv).
+
+# Abkürzung
+abc           # abc: Buchstabenfolge/Sigle
+admin         # admin: Kurzform von administrateur
+adp           # adp: Sigle
+aka           # aka: engl. also known as
+api           # api: Sigle (Programmierschnittstelle)
+asso          # asso: Kurzform von association (Frankreich)
+avr           # avr: avril
+bcp           # bcp: beaucoup (SMS)
+caf           # caf: Sigle CAF
+cal           # cal: Kalorie / Hornhaut selten
+cedex         # cedex: Postsigle
+chap          # chap: chapitre
+cit           # cit: citation
+coll          # coll: collection/collègue
+com           # com: communication/commentaire
+conf          # conf: Kurzform von conférence/confiance, umgangssprachlich
+config        # config: Kurzform von configuration, IT-Jargon
+coop          # coop: Kurzform coopérative; in CH Markenname Coop
+cyber         # cyber: Präfix/Kurzform, kein eigenständiges Wort
+dec           # déc: déc. (décembre)
+dej           # dej: Kurzform von déjeuner
+dem           # dem: kein eigenständiges Wort
+der           # der: nur in „la der des ders“ bzw. deutsch
+diff          # diff: Kurzform von différence/diffusion
+dino          # dino: Kurzform von dinosaure
+div           # div: Kurzform (division, HTML)
+doc           # doc: Kurzform von docteur/document
+dom           # dom: DOM (département d'outre-mer) bzw. Titel Dom
+eco           # éco: Kurzform von économie/écologique
+electro       # électro: Kurzform (Musikstil, électroménager)
+env           # env: env. (environ)
+etc           # etc: et cetera
+fao           # fao: Sigle (FAO)
+faq           # faq: Sigle (FAQ)
+feat          # feat: feat. (featuring), englisch
+fevr          # févr: févr. (février)
+fig           # fig: fig. (figure/figuré)
+fra           # fra: kein selbständiges Wort
+gal           # gal: Einheit/Kurzform
+geo           # géo: Kurzform géographie
+gif           # gif: Dateiformat
+hab           # hab: habitants
+hand          # hand: Kurzform handball
+html          # html: Abkürzung
+ide           # ide: Fisch/Abkürzung, unbekannt
+immo          # immo: Anzeigenjargon
+int           # int: Abkürzung
+janv          # janv: janvier
+jusqu         # jusqu: Elisionsform, nie allein
+lan           # lan: LAN
+led           # led: LED
+liv           # liv: Abkürzung
+log           # log: Logarithmus/Log-Datei
+lol           # lol: Netzjargon
+mag           # mag: magazine
+mar           # mar: mars/mardi
+max           # max: maximum; Vorname
+min           # min: minute
+mme           # mme: Madame
+mob           # mob: Mobylette/Anglizismus
+mod           # mod: Anglizismus (Spiel-Mod)
+modo          # modo: Netzjargon modérateur
+multi         # multi: Präfix, kein eigenständiges Wort
+muscu         # muscu: familiär für musculation
+nano          # nano: Präfix
+nat           # nat: Abkürzung
+ndlr          # ndlr: note de la rédaction
+neo           # néo: Präfix
+neuro         # neuro: Präfix/Kurzform
+nov           # nov: novembre
+oct           # oct: octobre
+paca          # paca: Region PACA
+parano        # parano: familiär für paranoïaque
+pcq           # pcq: SMS „parce que“
+pdf           # pdf: Abkürzung
+perf          # perf: familiär
+perso         # perso: familiär für personnel
+philo         # philo: familiär für philosophie
+php           # php: Abkürzung
+pla           # pla: Abkürzung
+politico      # politico: Präfix
+ppp           # ppp: Abkürzung
+pro           # pro: familiär für professionnel
+prod          # prod: familiär für production
+proprio       # proprio: familiär für propriétaire
+pros          # pros: familiär für professionnels
+proto         # proto: Präfix
+psy           # psy: familiär
+psycho        # psycho: Präfix/familiär
+ptet          # ptet: SMS „peut-être“
+ptit          # ptit: SMS „petit“
+pts           # pts: points
+qqch          # qqch: Abkürzung
+qqn           # qqn: Abkürzung
+ram           # ram: RAM/engl.
+rando         # rando: familiär für randonnée
+rdv           # rdv: Abkürzung
+ref           # réf: Abkürzung
+rem           # rem: Abkürzung
+rep           # rep: Abkürzung
+rip           # rip: R.I.P., zudem Tod
+rom           # rom: ROM / Volksgruppe Rom (Gruppe)
+samu          # samu: SAMU, nur Frankreich, Notfallmedizin
+sep           # sep: Abkürzung
+sin           # sin: Sinus (math.), kein Grundwort
+sino          # sino: Präfix (sino-)
+smic          # smic: SMIC, nur Frankreich
+stat          # stat: Statistik
+stats         # stats: Statistiken
+stp           # stp: s'il te plaît
+sub           # sub: Präfix/lat.
+svp           # svp: s'il vous plaît
+svt           # svt: Schulfach (Frankreich)
+synchro       # synchro: Kurzform
+tab           # tab: kein Grundwort
+tan           # tan: Tangens, kein Grundwort
+telecom       # télécom: Kurzform von télécommunication
+ter           # ter: lateinisch / TER (Frankreich)
+tjrs          # tjrs: toujours (SMS)
+trad          # trad: traduction / traditionnel
+trans         # trans: Präfix / Gruppe, politisch aufgeladen
+tuto          # tuto: umgangssprachliche Kurzform (tutoriel)
+tutos         # tutos: umgangssprachliche Kurzform
+usa           # usa: USA; als passé simple von user selten
+wan           # wan: kein frz. Wort
+
+# Anglizismus ohne Alltagsgebrauch
+ace           # ace: Tennis-Ass
+addict        # addict: frz. accro
+after         # after: Afterparty, nur Frankreich-Jugendsprache
+ale           # ale: engl. Bier
+alien         # alien: Anglizismus ohne Alltagsgebrauch
+alter         # alter: nur in alter ego / Hantel
+award         # award: Anglizismus ohne Alltagsgebrauch
+awards        # awards: Anglizismus ohne Alltagsgebrauch
+baby          # baby: nur in Komposita (baby-foot)
+bachelor      # bachelor: Anglizismus ohne Alltagsgebrauch
+bad           # bad: Anglizismus ohne Alltagsgebrauch
+ball          # ball: Anglizismus ohne Alltagsgebrauch
+bank          # bank: Anglizismus ohne Alltagsgebrauch
+basic         # basic: Programmiersprache
+battle        # battle: Anglizismus ohne Alltagsgebrauch
+beach         # beach: Anglizismus ohne Alltagsgebrauch
+because       # because: Anglizismus ohne Alltagsgebrauch
+bet           # bet: Anglizismus ohne Alltagsgebrauch
+big           # big: Anglizismus ohne Alltagsgebrauch
+bishop        # bishop: Anglizismus ohne Alltagsgebrauch
+bit           # bit: Informatik
+black         # black: auch ethnische Bezeichnung
+blade         # blade: Anglizismus ohne Alltagsgebrauch
+blind         # blind: Anglizismus ohne Alltagsgebrauch
+board         # board: Anglizismus ohne Alltagsgebrauch
+booster       # booster: Anglizismus ohne Alltagsgebrauch
+boot          # boot: Anglizismus ohne Alltagsgebrauch
+boots         # boots: Anglizismus ohne Alltagsgebrauch
+boy           # boy: Anglizismus ohne Alltagsgebrauch
+boys          # boys: Anglizismus ohne Alltagsgebrauch
+brand         # brand: Anglizismus ohne Alltagsgebrauch
+british       # british: Anglizismus ohne Alltagsgebrauch
+buzz          # buzz: Medienjargon
+bye           # bye: Gruß
+cab           # cab: Anglizismus ohne Alltagsgebrauch
+call          # call: Anglizismus ohne Alltagsgebrauch
+can           # can: Anglizismus ohne Alltagsgebrauch
+center        # center: Anglizismus ohne Alltagsgebrauch
+century       # century: Anglizismus ohne Alltagsgebrauch
+chase         # chase: Anglizismus ohne Alltagsgebrauch
+check         # check: Anglizismus ohne Alltagsgebrauch
+clash         # clash: Anglizismus ohne Alltagsgebrauch
+click         # click: frz. clic
+cloud         # cloud: Anglizismus ohne Alltagsgebrauch
+coaching      # coaching: Anglizismus ohne Alltagsgebrauch
+comics        # comics: Anglizismus ohne Alltagsgebrauch
+cools         # cools: Plural von cool kaum gebräuchlich
+cop           # cop: englisch cop bzw. Sigle COP
+cover         # cover: Musik-Jargon
+cute          # cute: englisch
+dance         # dance: Musikstil, englisch
+dark          # dark: englisch
+darling       # darling: englisch
+das           # das: deutsch/fremd, kein französisches Wort
+dash          # dash: englisch
+dei           # dei: lateinisch/italienisch, kein französisches Wort
+die           # die: englisch/deutsch
+dog           # dog: englisch
+dogs          # dogs: englisch
+dolce         # dolce: italienisch (dolce vita)
+drama         # drama: Serien-Jargon (K-drama)
+driver        # driver: Golf/IT-Jargon
+dual          # dual: englisch/fachsprachlich
+eagle         # eagle: englisch
+earl          # earl: englischer Titel/Vorname
+ein           # ein: deutsch, kein französisches Wort
+end           # end: englisch
+ends          # ends: englisch
+even          # even: englisch
+event         # event: englisch (évent = Fachwort)
+eye           # eye: englisch
+eyes          # eyes: englisch
+fake          # fake: englisch
+fantasy       # fantasy: Genre, englisch
+farmer        # farmer: englisch
+fashion       # fashion: englisch
+feng          # feng: nur in „feng shui“
+field         # field: englisch
+first         # first: englisch
+flow          # flow: Rap-Jargon
+flyers        # flyers: QC/BE sagen dépliant/tract
+focus         # focus: Medien-/Bürojargon
+food          # food: Anglizismus ohne Alltagsgebrauch
+fun           # fun: in FR selten, QC „le fun“ regional
+game          # game: Anglizismus ohne Alltagsgebrauch
+gamer         # gamer: Anglizismus ohne Alltagsgebrauch
+gamers        # gamers: Anglizismus ohne Alltagsgebrauch
+games         # games: Anglizismus ohne Alltagsgebrauch
+gear          # gear: Anglizismus ohne Alltagsgebrauch
+geek          # geek: Anglizismus ohne Alltagsgebrauch
+geeks         # geeks: Anglizismus ohne Alltagsgebrauch
+ghost         # ghost: Anglizismus ohne Alltagsgebrauch
+girl          # girl: Anglizismus ohne Alltagsgebrauch
+girls         # girls: Anglizismus ohne Alltagsgebrauch
+goal          # goal: frz. gardien/but
+good          # good: Anglizismus ohne Alltagsgebrauch
+green         # green: Golf-Jargon
+gum           # gum: Anglizismus ohne Alltagsgebrauch
+hacker        # hacker: Anglizismus ohne Alltagsgebrauch
+hardcore      # hardcore: Anglizismus ohne Alltagsgebrauch
+hardware      # hardware: frz. matériel
+hashtag       # hashtag: offiziell mot-dièse
+hit           # hit: Anglizismus ohne Alltagsgebrauch
+hood          # hood: Anglizismus ohne Alltagsgebrauch
+hospital      # hospital: Anglizismus ohne Alltagsgebrauch
+hour          # hour: Anglizismus ohne Alltagsgebrauch
+hub           # hub: Anglizismus ohne Alltagsgebrauch
+hunter        # hunter: Anglizismus ohne Alltagsgebrauch
+hype          # hype: Anglizismus ohne Alltagsgebrauch
+jam           # jam: Anglizismus ohne Alltagsgebrauch
+joke          # joke: Anglizismus ohne Alltagsgebrauch
+kid           # kid: Anglizismus ohne Alltagsgebrauch
+kids          # kids: Anglizismus ohne Alltagsgebrauch
+king          # king: Anglizismus ohne Alltagsgebrauch
+kings         # kings: Anglizismus ohne Alltagsgebrauch
+lady          # lady: Anglizismus ohne Alltagsgebrauch
+last          # last: Anglizismus ohne Alltagsgebrauch
+lead          # lead: Anglizismus ohne Alltagsgebrauch
+let           # let: Tennis-Jargon
+liberty       # liberty: Anglizismus ohne Alltagsgebrauch
+like          # like: Anglizismus ohne Alltagsgebrauch
+lines         # lines: Anglizismus ohne Alltagsgebrauch
+list          # list: Anglizismus ohne Alltagsgebrauch
+lobbying      # lobbying: politisch
+lord          # lord: engl. Titel
+love          # love: lover selten
+low           # low: Anglizismus ohne Alltagsgebrauch
+made          # made: Anglizismus ohne Alltagsgebrauch
+mama          # mama: frz. maman
+man           # man: Anglizismus ohne Alltagsgebrauch
+matter        # matter: Anglizismus ohne Alltagsgebrauch
+mister        # mister: Anglizismus ohne Alltagsgebrauch
+mix           # mix: Anglizismus ohne Alltagsgebrauch
+mustang       # mustang: Wildpferd/Automodell
+network       # network: Anglizismus ohne Alltagsgebrauch
+new           # new: Anglizismus ohne Alltagsgebrauch
+news          # news: in Québec unüblich
+night         # night: Anglizismus ohne Alltagsgebrauch
+ninja         # ninja: japanisches Lehnwort, Kampf
+not           # not: Anglizismus ohne Alltagsgebrauch
+off           # off: Anglizismus ohne Alltagsgebrauch
+official      # official: Anglizismus ohne Alltagsgebrauch
+okay          # okay: engl. Schreibung
+out           # out: Anglizismus ohne Alltagsgebrauch
+pad           # pad: Anglizismus ohne Alltagsgebrauch
+padre         # padre: span. Lehnwort
+party         # party: in Frankreich unüblich, Québec familiär
+pass          # pass: Anglizismus ohne Alltagsgebrauch
+people        # people: nur Frankreich
+pep           # pep: Anglizismus ohne Alltagsgebrauch
+ping          # ping: Anglizismus ohne Alltagsgebrauch
+pink          # pink: Anglizismus ohne Alltagsgebrauch
+pitbull       # pitbull: Kampfhund
+play          # play: Anglizismus ohne Alltagsgebrauch
+playlist      # playlist: Anglizismus ohne Alltagsgebrauch
+playoffs      # playoffs: Anglizismus ohne Alltagsgebrauch
+plaza         # plaza: span./Namen
+please        # please: Anglizismus ohne Alltagsgebrauch
+plug          # plug: Anglizismus ohne Alltagsgebrauch
+pool          # pool: Anglizismus ohne Alltagsgebrauch
+post          # post: Präfix/Anglizismus
+posts         # posts: Anglizismus ohne Alltagsgebrauch
+premium       # premium: Anglizismus ohne Alltagsgebrauch
+pride         # pride: Anglizismus ohne Alltagsgebrauch
+process       # process: Anglizismus ohne Alltagsgebrauch
+quad          # quad: Anglizismus ohne Alltagsgebrauch
+queen         # queen: Anglizismus ohne Alltagsgebrauch
+quote         # quote: frz. nur in „quote-part“
+racing        # racing: Vereinsname
+rain          # rain: Anglizismus ohne Alltagsgebrauch
+rangers       # rangers: Stiefel/Truppe
+relax         # relax: familiär
+remix         # remix: Anglizismus ohne Alltagsgebrauch
+review        # review: Anglizismus ohne Alltagsgebrauch
+room          # room: Anglizismus ohne Alltagsgebrauch
+root          # root: IT-Jargon
+run           # run: Anglizismus ohne Alltagsgebrauch
+runner        # runner: Anglizismus ohne Alltagsgebrauch
+sad           # sad: Anglizismus ohne Alltagsgebrauch
+sakura        # sakura: japanisches Wort
+scan          # scan: Jargon
+scratch       # scratch: Anglizismus ohne Alltagsgebrauch
+self          # self: nur „self-service“, Frankreich
+shake         # shake: Anglizismus ohne Alltagsgebrauch
+shirt         # shirt: nur in „t-shirt“
+shirts        # shirts: nur in „t-shirts“
+shooting      # shooting: Fotojargon
+shop          # shop: Anglizismus ohne Alltagsgebrauch
+shot          # shot: Anglizismus ohne Alltagsgebrauch
+sir           # sir: englischer Titel
+size          # size: Anglizismus ohne Alltagsgebrauch
+sky           # sky: Anglizismus ohne Alltagsgebrauch
+slam          # slam: Nische
+slim          # slim: Anglizismus ohne Alltagsgebrauch
+slow          # slow: veralteter Tanzbegriff
+small         # small: Anglizismus ohne Alltagsgebrauch
+smash         # smash: Sportjargon
+smiley        # smiley: Québec „binette“, nicht überall
+snow          # snow: Anglizismus ohne Alltagsgebrauch
+soft          # soft: Anglizismus ohne Alltagsgebrauch
+software      # software: frz. „logiciel“
+song          # song: Anglizismus ohne Alltagsgebrauch
+space         # space: Slang
+spam          # spam: Québec „pourriel“
+spike         # spike: Anglizismus ohne Alltagsgebrauch
+spirit        # spirit: Anglizismus ohne Alltagsgebrauch
+spoiler       # spoiler: Netzjargon
+spring        # spring: Anglizismus ohne Alltagsgebrauch
+squat         # squat: Hausbesetzung/Fitness-Jargon
+stadium       # stadium: frz. „stade“
+staff         # staff: Anglizismus ohne Alltagsgebrauch
+standing      # standing: v. a. Immobilienjargon Frankreich
+start         # start: Anglizismus ohne Alltagsgebrauch
+startup       # startup: üblich „start-up“, Jargon
+startups      # startups: Anglizismus ohne Alltagsgebrauch
+status        # status: Anglizismus ohne Alltagsgebrauch
+step          # step: Anglizismus ohne Alltagsgebrauch
+stream        # stream: Anglizismus ohne Alltagsgebrauch
+street        # street: Anglizismus ohne Alltagsgebrauch
+strike        # strike: Anglizismus ohne Alltagsgebrauch
+sweat         # sweat: v. a. Frankreich, Québec „coton ouaté“
+swing         # swing: Anglizismus ohne Alltagsgebrauch
+switch        # switch: Anglizismus ohne Alltagsgebrauch
+system        # system: frz. „système“
+systems       # systems: Anglizismus ohne Alltagsgebrauch
+tag           # tag: Graffiti/Netz-Jargon
+team          # team: frz. „équipe“
+tease         # tease: Anglizismus ohne Alltagsgebrauch
+tee           # tee: Golf/„tee-shirt“
+thread        # thread: Anglizismus ohne Alltagsgebrauch
+tie           # tie: Anglizismus ohne Alltagsgebrauch
+tiger         # tiger: frz. „tigre“
+tip           # tip: Anglizismus ohne Alltagsgebrauch
+toro          # toro: spanisch
+track         # track: Anglizismus ohne Alltagsgebrauch
+trade         # trade: Anglizismus ohne Alltagsgebrauch
+trader        # trader: Finanzjargon
+trail         # trail: Sportjargon
+trailer       # trailer: frz. „bande-annonce“
+trap          # trap: Anglizismus ohne Alltagsgebrauch
+trash         # trash: Anglizismus ohne Alltagsgebrauch
+trek          # trek: Anglizismus ohne Alltagsgebrauch
+walk          # walk: Anglizismus ohne Alltagsgebrauch
+wall          # wall: Anglizismus ohne Alltagsgebrauch
+warrior       # warrior: Anglizismus ohne Alltagsgebrauch
+warriors      # warriors: Anglizismus ohne Alltagsgebrauch
+wat           # wat: Anglizismus ohne Alltagsgebrauch
+wiki          # wiki: Anglizismus ohne Alltagsgebrauch
+
+# Anglizismus ohne Alltagsgebrauch / Abkürzung
+tech          # tech: Anglizismus ohne Alltagsgebrauch / Abkürzung
+
+# Anglizismus ohne Alltagsgebrauch / Drogenslang
+shoot         # shoot: Anglizismus ohne Alltagsgebrauch / Drogenslang
+
+# Anglizismus ohne Alltagsgebrauch / Interjektion
+sorry         # sorry: Anglizismus ohne Alltagsgebrauch / Interjektion
+
+# Anglizismus ohne Alltagsgebrauch / Marke
+rover         # rover: Anglizismus ohne Alltagsgebrauch / Marke
+
+# Anglizismus ohne Alltagsgebrauch / Volksname
+same          # same: Anglizismus ohne Alltagsgebrauch / Volksname
+
+# Anglizismus ohne Alltagsgebrauch/Name
+bay           # bay: Anglizismus ohne Alltagsgebrauch/Name
+bloom         # bloom: Anglizismus ohne Alltagsgebrauch/Name
+buck          # buck: Anglizismus ohne Alltagsgebrauch/Name
+
+# Anglizismus ohne Alltagsgebrauch; Drogen-Konnotation
+high          # high: Anglizismus ohne Alltagsgebrauch; Drogen-Konnotation
+
+# Anglizismus ohne Alltagsgebrauch; auch Porno-Konnotation
+hard          # hard: Anglizismus ohne Alltagsgebrauch; auch Porno-Konnotation
+
+# Drogen
+beuh          # beuh: Argot für Cannabis / Interjektion
+came          # came: Argot für Rauschgift; technische Lesart Fachsprache
+cannabis      # cannabis: Drogen
+cartel        # cartel: meist Drogenkartell
+cocaine       # cocaïne: Drogen
+crack         # crack: Droge (Nebenlesart Ass)
+dealer        # dealer: Drogenhändler
+defonce       # défoncé: Hauptlesart „high“, sonst eingeschlagen
+dopage        # dopage: Doping
+drogue        # drogue: Drogen
+drogues       # drogues: Drogen
+heroine       # héroïne: Heroin-Lesart gleich häufig wie Heldin
+kif           # kif: Haschisch; Argot („c'est kif-kif“)
+morphine      # morphine: Opiat/Medizin
+nicotine      # nicotine: Tabak/Suchtstoff
+opium         # opium: Drogen
+overdose      # overdose: Drogen
+seringue      # seringue: Spritze, Medizin/Drogen-Kontext
+sevrage       # sevrage: Entzug/Abstillen, medizinisch
+shooter       # shooter: Argot (se shooter), sonst Jargon
+speed         # speed: Slang (Droge / „être speed“)
+weed          # weed: Cannabis-Slang
+
+# Gewalt/Waffen
+abattage      # abattage: Schlachtung von Tieren als Hauptlesart
+agresse       # agressé: überfallen
+agresser      # agresser: überfallen, angreifen
+arme          # arme: Waffe
+armement      # armement: Rüstung
+armer         # armer: bewaffnen
+armes         # armes: Waffen
+arsenal       # arsenal: Waffenlager
+assassin      # assassin: Mörder
+attentat      # attentat: Anschlag
+bagarre       # bagarre: Schlägerei
+barbarie      # barbarie: Grausamkeit
+bavure        # bavure: meist Polizeigewalt (bavure policière)
+bombe         # bombe: Bombe
+bombes        # bombes: Bomben
+braquage      # braquage: bewaffneter Überfall
+braqueur      # braqueur: bewaffneter Räuber
+bute          # bute: Argot-Lesart „töten“ (buter qn)
+buter         # buter: Argot-Lesart „töten“; harmlose Lesart (buter sur) selten als Pflichtwort
+carabine      # carabine: Gewehr
+carnage       # carnage: Gemetzel
+revolver      # revolver: Schusswaffe
+sabre         # sabre: Säbel
+salve         # salve: Geschützsalve; übertragen eher gehoben
+sanglant      # sanglant: blutig
+sniper        # sniper: Scharfschütze
+supplice      # supplice: Folter, Hinrichtung
+tabasser      # tabasser: verprügeln, umgangssprachlich
+tireur        # tireur: Schütze
+torture       # torture: Gewalt/Waffen
+torturer      # torturer: Gewalt/Waffen
+tuant         # tuant: Partizip von tuer
+tue           # tué: tuer
+tuee          # tuée: tuer
+tuees         # tuées: tuer
+tuent         # tuent: tuer
+tuer          # tuer: töten
+tuerie        # tuerie: Massaker
+tues          # tués: tuer
+tueur         # tueur: Mörder
+tueurs        # tueurs: Mörder
+tueuse        # tueuse: Mörderin
+viol          # viol: sexuelle Gewalt
+viole         # violé: sexuelle Gewalt
+violee        # violée: sexuelle Gewalt
+violence      # violence: Gewalt/Waffen
+violent       # violent: ruhiges Register, als Pflichtwort ungeeignet
+violente      # violente: Gewalt/Waffen
+violents      # violents: Gewalt/Waffen
+violer        # violer: sexuelle Gewalt
+violeur       # violeur: sexuelle Gewalt, keine neutrale Lesart
+viols         # viols: sexuelle Gewalt
+
+# Gewalt/Waffen/Krieg
+adjudant      # adjudant: Militärdienstgrad
+amiral        # amiral: Marinedienstgrad
+armada        # armada: Kriegsflotte
+armee         # armée: Armee
+armees        # armées: Armeen
+assaut        # assaut: Sturmangriff
+bataille      # bataille: Schlacht
+blindes       # blindés: Panzerfahrzeuge (Nomen)
+blocus        # blocus: Blockade
+bombarde      # bombardé: bombardiert
+bunker        # bunker: Militärbunker
+caporal       # caporal: Militärdienstgrad
+colonel       # colonel: Militärdienstgrad
+combats       # combats: Kämpfe
+combattu      # combattu: bekämpft
+commando      # commando: Kommandotrupp
+corrida       # corrida: Stierkampf
+crime         # crime: Verbrechen, Mord
+crimes        # crimes: Verbrechen, Mord
+criminel      # criminel: Verbrecher
+deporte       # déporté: Deportation
+dynamite      # dynamite: Sprengstoff
+egorger       # égorger: Kehle durchschneiden
+emeute        # émeute: Aufruhr
+emeutes       # émeutes: Aufruhr
+epee          # épée: Waffe (Schwert)
+escadron      # escadron: Militäreinheit
+explosif      # explosif: Sprengstoff
+fessee        # fessée: Prügelstrafe, auch anstößig
+flingue       # flingue: Schusswaffe (Argot)
+flinguer      # flinguer: erschießen (Argot)
+fregate       # frégate: Kriegsschiff
+fusil         # fusil: Gewehr
+fusils        # fusils: Gewehre
+gang          # gang: Kriminalität
+gangster      # gangster: Kriminalität
+garnison      # garnison: Militär
+genocide      # génocide: Völkermord
+gestapo       # gestapo: NS-Geheimpolizei
+gifle         # gifle: Ohrfeige
+gore          # gore: Splatter
+grenade       # grenade: Handgranate neben Granatapfel (zweifel → ziel-nein)
+grenades      # grenades: Plural meist Waffe (zweifel → ziel-nein)
+guerilla      # guérilla: Gewalt/Waffen/Krieg
+guerre        # guerre: Gewalt/Waffen/Krieg
+guerres       # guerres: Gewalt/Waffen/Krieg
+guerrier      # guerrier: Gewalt/Waffen/Krieg
+gun           # gun: Anglizismus für Waffe
+harceler      # harceler: belästigen/mobben
+homicide      # homicide: Tötung
+invasion      # invasion: Gewalt/Waffen/Krieg
+kamikaze      # kamikaze: Gewalt/Waffen/Krieg
+lynchage      # lynchage: Gewalt/Waffen/Krieg
+mafia         # mafia: Kriminalität
+mafieux       # mafieux: Kriminalität
+marechal      # maréchal: militärischer Rang
+massacre      # massacre: Gewalt/Waffen/Krieg
+matraque      # matraque: Schlagstock
+meurtre       # meurtre: Mord
+meurtres      # meurtres: Mord
+milice        # milice: Gewalt/Waffen/Krieg
+milices       # milices: Gewalt/Waffen/Krieg
+missile       # missile: Gewalt/Waffen/Krieg
+missiles      # missiles: Gewalt/Waffen/Krieg
+obus          # obus: Granate
+otage         # otage: Geisel
+otages        # otages: Geiseln
+pistolet      # pistolet: Gewalt/Waffen/Krieg
+poignard      # poignard: Dolch
+putsch        # putsch: Militärputsch
+racket        # racket: Schutzgelderpressung
+rafle         # rafle: Razzia, historisch belastet (Vel d'Hiv)
+raid          # raid: Angriff
+raids         # raids: Angriffe
+rancon        # rançon: Lösegeld, Entführung
+sergent       # sergent: Militärrang
+tank          # tank: Panzer
+torpille      # torpille: Gewalt/Waffen/Krieg
+
+# Interjektion
+amen          # amen: liturgische Formel (Religion)
+ave           # ave: lat. Gruß/Gebet (Religion)
+bang          # bang: Onomatopoesie
+ben           # ben: umgangssprachlich (ben oui)
+chut          # chut: Lesart choir (passé simple) archaisch
+hic           # hic: lat. „voilà le hic“, Schluckauf
+hmm           # hmm: Interjektion
+hue           # hue: Fuhrmannsruf; huer selten
+miam          # miam: Interjektion
+mmh           # mmh: Interjektion
+mmm           # mmm: Interjektion
+nan           # nan: familiär für „non“
+ouais         # ouais: familiär
+ouin          # ouin: Québec familiär
+oups          # oups: Interjektion
+paf           # paf: auch Argot „betrunken“
+pfff          # pfff: Interjektion
+revoila       # revoilà: Präsentativ, umgangssprachlich, kein Grundwort
+salam         # salam: arabischer Gruß, religiös konnotiert
+tac           # tac: Lautmalerei (tic-tac)
+tam           # tam: nur „tam-tam“
+toc           # toc: Lautmalerei / „du toc“ umgangssprachlich
+waouh         # waouh: Interjektion
+
+# Name/Marke/Ort
+abu           # abu: arabischer Namensbestandteil, kein frz. Wort
+acer          # acer: Marke / lat. Ahorn
+ada           # ada: Vorname
+agathe        # agathe: Vorname (Stein heißt agate)
+ain           # ain: Département/Fluss
+airbus        # airbus: Marke
+ajax          # ajax: Name/Marke
+alabama       # alabama: US-Staat
+alain         # alain: Vorname
+alphonse      # alphonse: Vorname
+alsace        # alsace: Region
+ama           # ama: Name/Sigle
+ana           # ana: Vorname/selten
+anders        # anders: Vorname
+andes         # andes: Gebirge
+anna          # anna: Vorname
+apollon       # apollon: Göttername
+ari           # ari: Name
+auguste       # auguste: Vorname; Adjektiv literarisch
+auvergne      # auvergne: Region
+axel          # axel: Vorname / Eiskunstlaufsprung
+babel         # babel: biblischer Ortsname
+bale          # bâle: Stadt Basel
+bali          # bali: Insel
+balzac        # balzac: Autor
+baptiste      # baptiste: Vorname / Konfession
+barbara       # barbara: Vorname
+barbie        # barbie: Marke
+bastille      # bastille: Eigenname (Gefängnis, Platz)
+baviere       # bavière: Bayern
+bayard        # bayard: Name
+beauvais      # beauvais: Stadt
+belgique      # belgique: Land
+berlin        # berlin: Stadt
+bernard       # bernard: Vorname
+besson        # besson: Familienname
+beth          # beth: Vorname
+bey           # bey: osmanischer Titel
+bic           # bic: Marke
+billy         # billy: Vorname
+bitcoin       # bitcoin: Kryptowährung
+bitcoins      # bitcoins: Kryptowährung
+bob           # bob: Frequenz vom Vornamen
+bologne       # bologne: Stadt
+boris         # boris: Vorname
+brabant       # brabant: Region
+bresil        # brésil: Land
+bruges        # bruges: Stadt
+buffalo       # buffalo: Stadt
+calais        # calais: Frequenz von der Stadt; Verbform je calais selten
+canada        # canada: Land
+capitole      # capitole: Eigenname
+caroline      # caroline: Vorname
+caron         # caron: Familienname
+cartier       # cartier: Marke/Name
+casanova      # casanova: Eigenname
+castille      # castille: Region
+cayenne       # cayenne: Stadt/Pfeffer
+chico         # chico: span. Name/Argot
+chili         # chili: Frequenz vom Land Chili
+cid           # cid: Eigenname
+clarence      # clarence: Vorname
+clarisse      # clarisse: Vorname
+claude        # claude: Vorname
+cohen         # cohen: Familienname
+colin         # colin: Zipf vom Vornamen, Fisch nur in Frankreich geläufig (zweifel → ziel-nein)
+cologne       # cologne: Stadt Köln
+congo         # congo: Staat Congo
+cook          # cook: Eigenname (Cook), englisch
+coree         # corée: Land Corée (Lemma coré falsch)
+cruise        # cruise: Eigenname (Tom Cruise), englisch
+cuba          # cuba: Insel/Staat Cuba (Lemma cuber falsch)
+dakota        # dakota: US-Staat/Volk
+dal           # dal: kein französisches Wort (Namensbestandteil)
+dale          # dale: Eigenname, englisch
+dalton        # dalton: Eigenname (Daltons)
+dan           # dan: Vorname bzw. Judo-Grad, Fachwort
+del           # del: Namensbestandteil, spanisch/italienisch
+devon         # devon: Grafschaft/Geologie, Eigenname
+dirk          # dirk: Vorname
+doris         # doris: Vorname
+eagles        # eagles: englisch, Bandname
+einstein      # einstein: Eigenname
+elysee        # élysée: Élysée (Präsidentenpalast)
+eve           # ève: Vorname Ève
+fanny         # fanny: Vorname
+finn          # finn: Vorname
+flo           # flo: Kurzname
+flora         # flora: Vorname (französisch: flore)
+floride       # floride: Floride (US-Staat)
+fon           # fon: Volk/Sprache Fon
+fox           # fox: Fox (Sender), Anglizismus
+franco        # franco: meist Franco (Diktator); Adverb familier/Handelsjargon
+fraser        # fraser: Fraser, kein frz. Verb im Alltag
+frederic      # frédéric: Vorname
+free          # free: Marke Free, Anglizismus
+gao           # gao: Stadt in Mali
+gap           # gap: Stadt Gap; sonst Anglizismus
+gilbert       # gilbert: Vorname
+gilles        # gilles: Vorname
+google        # google: Marke
+gray          # gray: Name bzw. Physik-Einheit
+hachette      # hachette: meist Verlag Hachette
+hambourg      # hambourg: Stadt
+han           # han: Ethnie/Dynastie, Interjektion
+hans          # hans: Vorname
+hara          # hara: kein frz. Wort (hara-kiri)
+havre         # havre: meist Le Havre; Nomen literarisch
+hayes         # hayes: Name
+hazard        # hazard: Name (frz. Wort ist hasard)
+henry         # henry: Vorname
+hercule       # hercule: Herkules
+hesse         # hesse: Hessen/Hesse
+hilaire       # hilaire: Vorname
+himalaya      # himalaya: Gebirge
+hobbit        # hobbit: Tolkien
+hong          # hong: Hong Kong
+ibm           # ibm: Marke
+ibn           # ibn: Namensbestandteil
+inde          # inde: Land
+indes         # indes: Indien (hist.)
+isle          # isle: Ortsnamen (L'Isle-…), kein Wort
+ive           # ive: kein frz. Wort
+jacob         # jacob: Vorname
+jamal         # jamal: Vorname
+jan           # jan: Vorname/Abkürzung
+jason         # jason: Vorname
+java          # java: Insel/Programmiersprache; „faire la java“ veraltet
+jeanne        # jeanne: Vorname
+jeep          # jeep: Marke
+jesse         # jesse: Vorname
+joel          # joël: Vorname
+julie         # julie: Vorname
+justine       # justine: Vorname
+kan           # kan: kein frz. Wort
+kat           # kat: kein frz. Wort
+kim           # kim: Name
+klein         # klein: Name
+kong          # kong: Hong Kong / King Kong
+laura         # laura: Vorname
+laurent       # laurent: Vorname
+limousin      # limousin: Region
+linux         # linux: Marke
+lisa          # lisa: Vorname
+lloyd         # lloyd: Name
+locke         # locke: Name
+lola          # lola: Vorname
+los           # los: Los Angeles, span. Artikel
+louis         # louis: Vorname
+louise        # louise: Vorname
+luce          # luce: Vorname
+lucien        # lucien: Vorname
+mac           # mac: Marke; Argot = Zuhälter
+madison       # madison: Name
+magnum        # magnum: Eis-Marke, Revolver
+malik         # malik: Vorname
+mani          # mani: kein frz. Wort
+manitoba      # manitoba: Provinz
+mans          # mans: Le Mans
+manu          # manu: Vorname; „manu militari“
+mao           # mao: Mao, politisch
+mara          # mara: kein frz. Alltagswort
+marion        # marion: Vorname
+maroc         # maroc: Land
+marshall      # marshall: Name
+martine       # martine: Vorname
+maxwell       # maxwell: Name
+maya          # maya: Volk
+mexico        # mexico: Stadt
+miami         # miami: Stadt
+mickey        # mickey: Disney
+monaco        # monaco: Staat
+mongolie      # mongolie: Land
+mons          # mons: Stadt in Belgien
+montana       # montana: Bundesstaat
+moreau        # moreau: Familienname, Adjektiv (Pferdefarbe) veraltet
+morgan        # morgan: Vorname/Automarke
+munich        # munich: München
+napoleon      # napoléon: Napoleon (Münze selten)
+nate          # nate: Vorname
+nestor        # nestor: Vorname
+newton        # newton: Name/Fachbegriff Physik
+ney           # ney: Familienname
+nice          # nice: Stadt Nizza
+niger         # niger: Staat/Fluss
+nil           # nil: Fluss Nil
+nissan        # nissan: Automarke
+noah          # noah: Vorname
+nutella       # nutella: Marke
+oliver        # oliver: Vorname
+orion         # orion: Sternbild
+orleans       # orléans: Stadt
+ottawa        # ottawa: Stadt
+oxford        # oxford: Stadt
+paco          # paco: Vorname
+paolo         # paolo: Vorname
+parker        # parker: Name/Marke
+pau           # pau: Stadt
+paul          # paul: Vorname
+pekin         # pékin: Peking (Argot „Zivilist“)
+pepsi         # pepsi: Marke
+perou         # pérou: Land
+perrier       # perrier: Marke
+philippe      # philippe: Vorname
+phoenix       # phoenix: Stadt; frz. Schreibung „phénix“
+pia           # pia: Vorname
+pier          # pier: Vorname
+pierce        # pierce: Name
+poe           # poe: Name
+portugal      # portugal: Land
+prusse        # prusse: Preußen
+queens        # queens: Stadtteil/engl.
+ramon         # ramon: Vorname
+rand          # rand: Währung/Name
+ray           # ray: Vorname
+real          # real: Vereinsname/engl.
+renaud        # renaud: Vorname
+rene          # rené: Lesart fast immer Vorname René; „rené“ (renaître) und „rêne“ (Sg.) selten
+rex           # rex: lateinisch/Name (T-Rex), kein frz. Grundwort
+rio           # rio: Rio
+rob           # rob: Vorname/Fachwort
+robinson      # robinson: Robinson
+ron           # ron: Vorname
+ronnie        # ronnie: Vorname
+rosalie       # rosalie: Vorname
+rouen         # rouen: Stadt
+roy           # roy: Vorname
+sabine        # sabine: Vorname
+sal           # sal: kein frz. Grundwort
+salomon       # salomon: Name/Marke
+sami          # sami: Vorname/Volksname
+sammy         # sammy: Vorname
+sara          # sara: Vorname
+saturne       # saturne: Planet/Gott
+saul          # saul: Vorname
+saxe          # saxe: Sachsen
+scott         # scott: Name
+sen           # sen: kein frz. Grundwort
+sharon        # sharon: Vorname
+shell         # shell: Marke / IT-Jargon
+shin          # shin: kein frz. Wort
+sil           # sil: kein frz. Grundwort
+skype         # skype: Marke
+sophie        # sophie: Vorname
+sorbonne      # sorbonne: Universität
+soudan        # soudan: Land
+stewart       # stewart: Name
+suede         # suède: meist das Land Suède (Großschreibung); Wildleder selten
+sui           # sui: nur „sui generis“
+sully         # sully: Name
+superman      # superman: Figur/Marke
+sylvain       # sylvain: Vorname
+sylvie        # sylvie: Vorname
+tal           # tal: kein frz. Grundwort
+tampa         # tampa: Stadt
+tara          # tara: Vorname, kein frz. Wort
+teddy         # teddy: Vorname
+tesla         # tesla: Marke/Einheit
+tex           # tex: kein frz. Grundwort
+theo          # théo: Vorname
+thiers        # thiers: Name/Stadt
+thompson      # thompson: Name
+tin           # tin: kein frz. Grundwort
+tit           # tit: kein frz. Grundwort
+toby          # toby: Vorname
+tom           # tom: Vorname
+tommy         # tommy: Vorname
+tweet         # tweet: Plattformbegriff
+tweete        # tweeté: Plattformbegriff
+tweeter       # tweeter: Plattformbegriff
+tweets        # tweets: Plattformbegriff
+twitter       # twitter: Marke
+valentin      # valentin: Vorname
+van           # van: meist Namenspartikel; Anglizismus Kleinbus
+var           # var: Département / Abkürzung
+vatican       # vatican: Name/Marke/Ort
+venise        # venise: Venedig
+verne         # verne: Jules Verne
+vivendi       # vivendi: Marke / „modus vivendi“
+windows       # windows: Marke
+yin           # yin: chinesischer Begriff, nur „yin et yang“
+york          # york: New York
+yorkais       # yorkais: nur in „new-yorkais“
+yuri          # yuri: Vorname
+zoe           # zoé: Vorname
+
+# Register
+saoul         # saoul: „betrunken“, Variante von soûl, als Pflichtwort ungeeignet
+
+# Religion/Gruppe/Politik
+afro          # afro: ethnisches Präfix/Adjektiv
+athee         # athée: Weltanschauungsgruppe
+atheisme      # athéisme: Weltanschauung
+avorter       # avorter: Abtreibung, politisch/medizinisch belastet
+berbere       # berbère: Volksgruppe, politisch sensibel
+bouddha       # bouddha: religiöse Figur/Eigenname
+burkini       # burkini: religiös/politisch aufgeladen
+burqa         # burqa: religiös/politisch aufgeladen
+charia        # charia: religiöses Recht
+chiite        # chiite: Konfessionsgruppe
+chretien      # chrétien: Konfessionsgruppe
+christ        # christ: religiöser Eigenname
+cis           # cis: politisch aufgeladenes Kürzel
+coran         # coran: heilige Schrift, Eigenname
+croisade      # croisade: Kreuzzug, Religionskrieg
+crucifix      # crucifix: religiöses Kultobjekt
+djihad        # djihad: religiös-politisch aufgeladen, Gewalt
+emir          # émir: Herrschertitel, fremd
+esclave       # esclave: Sklaverei, belastet
+esclaves      # esclaves: Sklaverei, belastet
+ethnie        # ethnie: Gruppenbegriff, aufgeladen
+ethnique      # ethnique: Gruppenbegriff, aufgeladen
+evangile      # évangile: religiöse Schrift
+eveche        # évêché: kirchlicher Amtsbezirk, selten
+facies        # faciès: aufgeladen („contrôle au faciès“), sonst fachsprachlich
+fascisme      # fascisme: politische Ideologie
+fasciste      # fasciste: politisch aufgeladen, auch Schimpfwort
+gay           # gay: Gruppenwort sexuelle Orientierung
+gays          # gays: Gruppenwort sexuelle Orientierung
+ghetto        # ghetto: belastet
+hadj          # hadj: Pilgerfahrt
+haram         # haram: Religion/Gruppe/Politik
+hebreux       # hébreux: biblisches Volk
+heresie       # hérésie: Religion/Gruppe/Politik
+hetero        # hétéro: sexuelle Orientierung, familier
+hijab         # hijab: Religion/Gruppe/Politik
+imam          # imam: Religion/Gruppe/Politik
+immigre       # immigré: politisch aufgeladenes Gruppenwort
+immigres      # immigrés: politisch aufgeladenes Gruppenwort
+islam         # islam: Religion/Gruppe/Politik
+jesuite       # jésuite: Orden, auch abwertend
+jesuites      # jésuites: Orden
+jihad         # jihad: auch Gewalt
+judaisme      # judaïsme: Religion/Gruppe/Politik
+judas         # judas: biblischer Name/Verräter
+judeo         # judéo: Präfix
+juif          # juif: Religionsgruppenwort
+juifs         # juifs: Religionsgruppenwort
+juive         # juive: Religionsgruppenwort
+juives        # juives: Religionsgruppenwort
+kabyle        # kabyle: Ethnie
+kurde         # kurde: politisch aufgeladene Ethnie
+kurdes        # kurdes: politisch aufgeladene Ethnie
+laic          # laïc: Laizismus-Debatte
+laicite       # laïcité: politisch aufgeladen
+laique        # laïque: politisch aufgeladen
+latina        # latina: Gruppenwort, Anglizismus
+latino        # latino: Gruppenwort
+liturgie      # liturgie: Fachwort Kirche
+lobby         # lobby: Anglizismus, politisch
+martyr        # martyr: Märtyrer, Tod
+martyre       # martyre: Martyrium, Tod
+martyrs       # martyrs: Märtyrer, Tod
+marxisme      # marxisme: Religion/Gruppe/Politik
+marxiste      # marxiste: Religion/Gruppe/Politik
+messie        # messie: Religion/Gruppe/Politik
+migrant       # migrant: politisch aufgeladen
+migrants      # migrants: politisch aufgeladen
+musulman      # musulman: Religionsgruppe
+nazi          # nazi: NS
+nazie         # nazie: NS
+nazis         # nazis: NS
+nazisme       # nazisme: NS
+niqab         # niqab: religiöse Verschleierung
+nirvana       # nirvana: religiöser Begriff/Bandname
+pequiste      # péquiste: Québec-Partei
+race          # race: Menschenrassen-Lesart belastet
+races         # races: Menschenrassen-Lesart belastet
+racisme       # racisme: Religion/Gruppe/Politik
+raciste       # raciste: Religion/Gruppe/Politik
+racistes      # racistes: Religion/Gruppe/Politik
+ramadan       # ramadan: religiöses Fest
+reich         # reich: NS-Bezug
+reverend      # révérend: geistlicher Titel, im Alltag v. a. aus Filmen
+roms          # roms: Volksgruppe, politisch belastet
+rwandais      # rwandais: Nationalität mit Völkermord-Kontext, im Alltag selten
+saintete      # sainteté: päpstlicher Titel
+satan         # satan: Eigenname, religiös
+saxon         # saxon: historische Volksgruppe, allein selten (meist anglo-saxon)
+saxons        # saxons: historische Volksgruppe, allein selten
+sectaire      # sectaire: Sekten-Kontext
+secte         # secte: Sekte
+sexisme       # sexisme: politisch aufgeladen
+sexiste       # sexiste: politisch aufgeladen
+sunnite       # sunnite: Konfession
+tao           # tao: philosophisch-religiöser Begriff
+torah         # torah: Religion/Gruppe/Politik
+trinite       # trinité: Dreifaltigkeit
+vicaire       # vicaire: Kirchenamt
+
+# Schreibung
+assoir        # assoir: rektifizierte Nebenform von asseoir (Lemma als NOM falsch), nicht als Pflichtwort
+popcorn       # popcorn: frz. „pop-corn“, im Raster nicht darstellbar
+weekend       # weekend: üblich „week-end“; Québec „fin de semaine“
+
+# Tod/Krankheit
+abattoir      # abattoir: Schlachthof
+agonie        # agonie: Todeskampf
+ampute        # amputé: Amputation
+arsenic       # arsenic: Gift
+asphyxie      # asphyxie: Ersticken
+asthme        # asthme: Krankheit
+autisme       # autisme: Diagnose
+autiste       # autiste: Diagnose, auch als Beleidigung benutzt
+autopsie      # autopsie: Leichenöffnung
+bourreau      # bourreau: Henker
+cadavre       # cadavre: Leiche
+cadavres      # cadavres: Leichen
+cancer        # cancer: Krebs
+cancers       # cancers: Krebs (Plural)
+caveau        # caveau: Grabgewölbe
+cercueil      # cercueil: Sarg
+cholera       # choléra: Seuche
+coma          # coma: Koma
+cyanure       # cyanure: Gift
+decede        # décédé: verstorben
+deces         # décès: Todesfall
+defunt        # défunt: Verstorbener
+demence       # démence: psychiatrische Erkrankung
+dement        # dément: geisteskrank (umgangssprachlich auch „irre“)
+deuil         # deuil: Trauer um Verstorbene
+diabete       # diabète: Krankheit
+diarrhee      # diarrhée: medizinisch, unappetitlich
+enterre       # enterré: beerdigt
+enterrer      # enterrer: beerdigen
+epidemie      # épidémie: Seuche
+famine        # famine: Hungersnot
+foetus        # foetus: medizinisch, Abtreibungsdebatte; Schreibung wäre fœtus
+funebre       # funèbre: Begräbnis
+funeste       # funeste: tödlich, zudem literarisch
+gale          # gale: Krätze
+gastro        # gastro: Kurzform Gastroenteritis, Abkürzung
+grippe        # grippe: Grippe
+hepatite      # hépatite: Tod/Krankheit
+hospice       # hospice: Sterbe-/Armenhaus, veraltet
+insuline      # insuline: Diabetes, medizinisch
+legiste       # légiste: Gerichtsmedizin
+lesion        # lésion: medizinisch
+lesions       # lésions: medizinisch
+leucemie      # leucémie: Tod/Krankheit
+macabre       # macabre: Tod/Krankheit
+maladie       # maladie: Krankheit als Pflichtwort (zweifel → ziel-nein)
+mausolee      # mausolée: Grabbau
+meurent       # meurent: mourir
+meurs         # meurs: mourir
+meurt         # meurt: mourir
+migraine      # migraine: Tod/Krankheit
+morbide       # morbide: morbide, krankhaft
+morgue        # morgue: Leichenhalle
+mort          # mort: Tod/tot
+morte         # morte: tot
+mortel        # mortel: tödlich (auch Argot „c'est mortel“)
+mortelle      # mortelle: tödlich
+mortels       # mortels: tödlich/Sterbliche
+mortes        # mortes: tot
+morts         # morts: Tote
+mourant       # mourant: sterbend
+mourir        # mourir: sterben
+noyade        # noyade: Ertrinken
+obesite       # obésité: medizinischer Befund
+obseques      # obsèques: Begräbnis
+pendre        # pendre: auch „erhängen“
+pendu         # pendu: Erhängter
+perir         # périr: umkommen, literarisch
+peste         # peste: Pest
+posthume      # posthume: nach dem Tod
+prostate      # prostate: Medizin, intim
+prothese      # prothèse: Medizin
+psychose      # psychose: psychiatrische Krankheit
+pus           # pus: Eiter (zugleich passé simple von pouvoir)
+rougeole      # rougeole: Masern
+sclerose      # sclérose: Tod/Krankheit
+sida          # sida: Aids (Québec: sida auch, aber Krankheit)
+suicide       # suicide: Tod/Krankheit
+suicider      # suicider: Tod/Krankheit
+suicides      # suicides: Tod/Krankheit
+suture        # suture: Chirurgie
+thyroide      # thyroïde: medizinischer Fachbegriff
+tombeau       # tombeau: Grabmal
+tumeur        # tumeur: Tod/Krankheit
+urinaire      # urinaire: medizinisch
+urine         # urine: Körperausscheidung
+uterus        # utérus: Anatomie/medizinisch
+variole       # variole: Pocken
+vomi          # vomi: Erbrochenes, unangenehm
+vomir         # vomir: unangenehm
+
+# Tod/Krankheit (zweifel → ziel-nein)
+maladies      # maladies: Tod/Krankheit (zweifel → ziel-nein)
+
+# abwertend
+abruti        # abruti: Schimpfwort
+abrutis       # abrutis: Schimpfwort (Plural)
+attarde       # attardé: als Nomen/Adjektiv Beleidigung (geistig zurückgeblieben)
+batard        # bâtard: vor allem als Beleidigung gebraucht
+beauf         # beauf: Spießer (pejorativ)
+chienne       # chienne: häufig als Beleidigung; Tierbedeutung bleibt Bonus
+cretin        # crétin: Schimpfwort
+debile        # débile: Schimpfwort
+debiles       # débiles: Schimpfwort
+degenere      # dégénéré: Schimpfwort
+enflure       # enflure: heute vor allem Schimpfwort; sonst medizinisch (Schwellung)
+fourbe        # fourbe: Charakterurteil
+garce         # garce: mild/veraltet (still → ziel-nein)
+haineux       # haineux: hasserfüllt, nicht ruhig
+homo          # homo: oft als Beleidigung, Gruppenwort
+idiot         # idiot: Beleidigung
+idiote        # idiote: Beleidigung
+idiots        # idiots: Beleidigung
+imbecile      # imbécile: Beleidigung
+infirme       # infirme: Behinderung, abwertend gebraucht
+macho         # macho: abwertend
+minable       # minable: abwertend
+misogyne      # misogyne: Gruppen-/Werturteil
+obese         # obèse: Körperbeschreibung, oft verletzend
+ordure        # ordure: im Singular v. a. Schimpfwort (Plural „ordures“ bleibt)
+sadique       # sadique: grausam, Gewaltkonnotation
+tapette       # tapette: verbreitetes homophobes Schimpfwort (Fliegenklatsche-Lesart als Bonus ok)
+tare          # taré: „bekloppt“
+trainee       # traînée: auch sexistisches Schimpfwort; Spur-Lesart als Bonus ok
+vermine       # vermine: oft als Schimpfwort für Menschen
+
+# regional
+agrege        # agrégé: frz. Bildungstitel (agrégation), außerhalb Frankreichs kaum bekannt
+blogue        # blogue: québécoise Schreibung von blog
+calice        # calice: Québec-Fluch (sacre), sonst religiöser Fachbegriff
+cantal        # cantal: Käse/Département, nur Frankreich
+far           # far: bretonischer Kuchen; sonst nur in „Far West“
+fuel          # fuel: BE/QC sagen mazout, offiziell fioul
+kine          # kiné: Frankreich/Belgien; QC sagt physio
+liegeois      # liégeois: Einwohner von Liège
+living        # living: belgisch für Wohnzimmer
+lunch         # lunch: QC/BE Mittagessen, FR Buffet
+lyonnais      # lyonnais: Einwohner von Lyon
+marabout      # marabout: afrikanisches Französisch, Religion/Magie
+mas           # mas: provenzalisches Bauernhaus
+mome          # môme: familier, nur Frankreich
+nantais       # nantais: Einwohner von Nantes, Ortsableitung
+nicois        # niçois: Einwohner von Nizza, Ortsableitung
+ontarien      # ontarien: Ortsableitung Ontario
+oued          # oued: Maghreb, Wadi
+pepere        # pépère: frz. familiär
+piaf          # piaf: frz. familiär für „moineau“
+puy           # puy: Auvergne, meist Ortsname
+training      # training: belgisch (Trainingsanzug) / Anglizismus
+wallon        # wallon: belgische Volksgruppe/Sprache, außerhalb Belgiens wenig vertraut
+water         # water: „les waters“ (WC), veraltet/Frankreich; sonst Anglizismus
+
+# selten/fachsprachlich
+ablation      # ablation: Medizin (chirurgische Entfernung)
+ala           # ala: kein frz. Wort (Fragment von à la)
+ani           # ani: Vogelart/Sigle
+anti          # anti: Präfix, kein selbständiges Wort
+archiduc      # archiduc: Adelstitel, historisch
+are           # are: Flächeneinheit; Frequenz stammt aus engl. are
+ars           # ars: lat./Name, kein Alltagswort
+ayants        # ayants: nur in ayants droit (Jura)
+bene          # bene: kein frz. Wort
+bin           # bin: kein frz. Wort (arab. Name/engl.)
+bot           # bot: nur pied bot / Informatik-Anglizismus
+bou           # bou: kein frz. Wort
+bristol       # bristol: Kartonart; Frequenz von der Stadt
+cara          # cara: kein frz. Wort
+cecite        # cécité: Medizin (Blindheit)
+chi           # chi: kein frz. Wort
+chlorure      # chlorure: Chemie
+courtage      # courtage: Finanzen (Maklergeschäft)
+cranien       # crânien: Medizin/Anatomie
+deposant      # déposant: Bank/Recht
+dioxyde       # dioxyde: Chemie
+dudit         # dudit: Juristensprache
+encours       # encours: Finanzen
+enzyme        # enzyme: Biochemie
+eponyme       # éponyme: gehoben/Fachwort
+genome        # génome: Biologie
+graphe        # graphe: Mathematik
+greco         # gréco: nur Präfix (gréco-romain)
+grosso        # grosso: nur „grosso modo“
+habilite      # habilité: Verwaltungsjargon
+hoc           # hoc: nur „ad hoc“
+hydro         # hydro: Präfix; QC Hydro (Firma)
+indo          # indo: nur Präfix
+infra         # infra: lat. Verweis
+intra         # intra: nur Präfix
+ion           # ion: Chemie
+ixe           # ixe: Buchstabenname, unbekannt
+locatif       # locatif: Immobilien-/Grammatikjargon
+lux           # lux: Physik-Einheit
+macro         # macro: Kurzform/Fotografie/Informatik
+maillage      # maillage: Fachjargon Netz/Verwaltung
+matches       # matches: Nebenform, üblich matchs
+math          # math: Nebenform, üblich maths
+mercato       # mercato: Fußballjargon, italienisch
+minima        # minima: lat. Plural (minima sociaux)
+museum        # muséum: nur Institutionsname, Alltag „musée“
+nexus         # nexus: Latein/Marke
+pal           # pal: Pfahl (Heraldik) / engl.
+pat           # pat: Schach / Vorname
+phi           # phi: griech. Buchstabe
+piper         # piper: nur „sans piper mot“, „dés pipés“
+prieure       # prieuré: Kirchengeschichte
+rai           # rai: Lichtstrahl veraltet / raï Musik
+raz           # raz: nur in „raz de marée“
+rectorat      # rectorat: frz. Schulverwaltung
+reg           # reg: Geographie (Steinwüste)
+rez           # rez: nur in „rez-de-chaussée“
+saisine       # saisine: Rechtssprache
+sapiens       # sapiens: lateinisch
+sic           # sic: lateinisch
+sine          # sine: nur „sine qua non“
+soc           # soc: Pflugschar
+statu         # statu: nur „statu quo“
+statuer       # statuer: Rechts-/Verwaltungssprache
+stele         # stèle: Archäologie/Grabmal
+substrat      # substrat: selten/fachsprachlich
+supra         # supra: lateinisch
+tain          # tain: Spiegelbelag
+tandis        # tandis: nur in „tandis que“, allein nicht gebraucht
+versus        # versus: lateinisch
+vitro         # vitro: nur „in vitro“
+vox           # vox: lateinisch
+zonage        # zonage: Stadtplanung
+
+# seltene Flexionsform
+aucunes       # aucunes: Plural von aucun, fast nur archaisch
+aucuns        # aucuns: Plural von aucun, archaisch (d'aucuns)
+data          # data: passé simple von dater; sonst englisch data
+devint        # devint: passé simple 3. Sg. (nicht im Rang von fut/fit/dit)
+donna         # donna: passé simple 3. Sg.; zudem Vorname
+eurent        # eurent: passé simple 3. Pl.
+leva          # leva: passé simple 3. Sg.
+luis          # luis: luire, selten; sonst Vorname Luis
+maria         # maria: passé simple 3. Sg.; sonst Vorname
+mirent        # mirent: passé simple 3. Pl.
+parce         # parce: nur in „parce que“, kein eigenständiges Wort
+poussa        # poussa: passé simple 3. Sg.
+puisses       # puisses: subjonctif 2. Sg.
+puissiez      # puissiez: subjonctif 2. Pl.
+rie           # rie: subjonctif von rire, selten geschrieben
+sue           # sue: Partizip fem. von savoir / suer, als Pflichtwort unklar
+sus           # sus: passé simple von savoir / „en sus“
+value         # value: Partizip fem. von valoir, nur in „plus-value“
+vaux          # vaux: Plural von val / „je vaux“
+vingts        # vingts: nur in „quatre-vingts“
+
+# sexuell/anstößig
+adultere      # adultère: Ehebruch
+anal          # anal: Körper/Sexualbezug
+anus          # anus: Körperöffnung
+baiser        # baiser: Nomen „Kuss“ harmlos, Verb vulgär (zweifel → ziel-nein)
+bander        # bander: vulgäre Zweitlesart (Erektion)
+capote        # capote: umgangssprachlich Kondom
+chatte        # chatte: vulgäre Zweitlesart
+clitoris      # clitoris: Anatomie
+cocu          # cocu: betrogener Ehemann, derb
+cougar        # cougar: heute meist Slang für ältere Verführerin; Tier heißt puma
+cougars       # cougars: Plural, Slang-Lesart
+debauche      # débauche: Ausschweifung (Hauptlesart)
+erection      # érection: Hauptlesart sexuell
+erotique      # érotique: sexuell/anstößig
+erotisme      # érotisme: sexuell/anstößig
+fesse         # fesse: Körperteil, derb-kindlich
+fesses        # fesses: Körperteil, derb-kindlich
+fourrer       # fourrer: in Québec vulgär (= baiser)
+gaule         # gaule: Argot „avoir la gaule“; sonst Ortsname Gaule
+gland         # gland: Anatomie und Schimpfwort („t'es un gland“), Eichel-Lesart nicht dominant
+gosse         # gosse: in Québec = Hoden; FR familier
+gosses        # gosses: in Québec = Hoden; FR familier
+hot           # hot: Anglizismus, sexuelle Konnotation
+inceste       # inceste: sexuell/anstößig
+jouir         # jouir: dominante sexuelle Lesart
+jouit         # jouit: wie jouir
+libido        # libido: sexuell/anstößig
+minou         # minou: Argot-Nebenbedeutung; sonst Kindersprache
+nudite        # nudité: Nacktheit
+obscene       # obscène: sexuell/anstößig
+obsede        # obsédé: häufig „obsédé sexuel“
+orgasme       # orgasme: sexuell/anstößig
+orgie         # orgie: sexuell/anstößig
+penis         # pénis: sexuell/anstößig
+pervers       # pervers: sexuell/anstößig
+pipe          # pipe: sexuelle Argotbedeutung allgemein bekannt (zweifel → ziel-nein)
+playboy       # playboy: Anglizismus, Magazin
+porno         # porno: wie EN porn gültig, nie Ziel (still → ziel-nein)
+puceau        # puceau: männliche Jungfrau
+seins         # seins: Plural meint fast nur Brüste (sein = „au sein de“ bleibt)
+sexe          # sexe: sexuell/anstößig
+sexes         # sexes: sexuell/anstößig
+sexuel        # sexuel: sexuell/anstößig
+sexuelle      # sexuelle: sexuell/anstößig
+sexuels       # sexuels: sexuell/anstößig
+sexy          # sexy: sexuell/anstößig
+sodomie       # sodomie: Fachwort, gültig, nie Ziel (still → ziel-nein)
+sperme        # sperme: sexuell/anstößig
+string        # string: Tanga
+strip         # strip: Strip(tease) / Jargon
+suce          # suce: doppeldeutig, oft in vulgären Wendungen
+sucer         # sucer: doppeldeutig; als Bonuswort ok
+travesti      # travesti: Geschlechterrolle, Gruppe
+vagin         # vagin: Anatomie
+verge         # verge: heute v. a. anatomisch (Rute/Québec-Elle selten)
+voyeur        # voyeur: sexuell/anstößig
+zizi          # zizi: Kinderwort für Penis
+
+# veraltet/literarisch
+ais           # ais: Brett (ais), unbekannt
+antre         # antre: Höhle (gehoben)
+calife        # calife: historischer Titel
+dam           # dam: nur in „au grand dam“
+deca          # deçà: nur in „en deçà“; als Bonus wäre „déca“ (Entkoffeinierter) die Alltagslesart
+dela          # delà: nur in „au-delà“, „par-delà“, allein nicht gebräuchlich
+discord       # discord: als Adjektiv selten; sonst Marke Discord
+dixit         # dixit: Latinismus
+echeant       # échéant: nur in „le cas échéant“
+edit          # édit: historischer Erlass; Form auch englisch edit
+emblee        # emblée: nur in „d'emblée“
+encontre      # encontre: nur in „à l'encontre de“
+encor         # encor: poetische Nebenform von encore
+envi          # envi: nur in „à l'envi“
+facto         # facto: nur in „de facto“
+fat           # fat: „fat“ = eitel, selten; sonst englisch
+fol           # fol: nur vor Vokal, archaisch
+for           # for: nur in „for intérieur“
+fur           # fur: nur „au fur et à mesure“
+gue           # gué: selten, fast nur „à gué“
+hui           # hui: nur in aujourd'hui
+instar        # instar: nur „à l'instar de“
+insu          # insu: nur „à l'insu de“
+ire           # ire: veraltet/literarisch
+jeun          # jeun: nur „à jeun“
+lai           # lai: mittelalterliche Dichtung
+lange         # lange: Windel, selten
+leu           # leu: nur „à la queue leu leu“; Währung
+lez           # lez: nur in Ortsnamen
+mil           # mil: Hirse/Jahreszahl-Schreibung, selten
+moult         # moult: nur scherzhaft
+muros         # muros: nur in „intra-muros“/„extra-muros“
+naguere       # naguère: veraltet/literarisch
+nec           # nec: Latein, nur „nec plus ultra“
+omnibus       # omnibus: veraltet/literarisch
+ores          # ores: nur in „d'ores et déjà“
+ost           # ost: altfrz. „Heer“ / Abkürzung
+premices      # prémices: gehobener Stil
+primo         # primo: Latein-Adverb, familiär
+priori        # priori: nur in „a priori“
+prussien      # prussien: historisch, Ortsableitung
+qua           # qua: Latein
+quid          # quid: Latein, familiär
+quo           # quo: nur „statu quo“
+sieur         # sieur: veraltet/literarisch
+sitot         # sitôt: gehoben („sitôt dit, sitôt fait“)
+val           # val: v. a. in Namen und „par monts et par vaux“
+vil           # vil: veraltet/literarisch
+vocable       # vocable: gehoben
+
+# vulgär/Argot
+baston        # baston: Schlägerei (Argot, Gewalt)
+biz           # biz: SMS-Kurzform von bisous
+bordel        # bordel: mild, auch „Durcheinander“ (still → ziel-nein)
+caid          # caïd: Gangsterboss
+chelou        # chelou: Verlan
+chialer       # chialer: flennen (familiär-derb)
+clope         # clope: familiär für Zigarette
+cul           # cul: derb, aber wie EN ass gültig, nie Ziel (still → ziel-nein)
+culs          # culs: wie cul (still → ziel-nein)
+deconne       # déconne: déconner (von con), derb-umgangssprachlich
+deconner      # déconner: derb-umgangssprachlich
+degueu        # dégueu: Kurzform von dégueulasse
+foireux       # foireux: von foire (Durchfall), familier
+foutage       # foutage: nur „foutage de gueule“
+foutu         # foutu: foutre
+foutue        # foutue: foutre
+frangin       # frangin: familier, nur Frankreich
+galerer       # galérer: familier, v. a. Frankreich
+glande        # glande: glander = faulenzen; Nomen medizinisch
+gratos        # gratos: Argot für gratuit
+gueule        # gueule: familier-vulgär für Gesicht/Mund
+gueuler       # gueuler: familier-vulgär
+gueules       # gueules: familier-vulgär
+gus           # gus: Argot
+hyper         # hyper: Präfix bzw. familiär („hyper bien“), Kurzform hypermarché
+kil           # kil: Argot (un kil de rouge)
+louper        # louper: familier, v. a. Frankreich
+marrer        # marrer: familier, v. a. Frankreich
+mate          # mate: mater = gaffen; Mehrdeutig (maté, mâte)
+mater         # mater: familier „mater“ = gaffen
+matos         # matos: Argot
+mec           # mec: familier, FR; QC sagt gars
+mecs          # mecs: familier, FR
+mega          # méga: Präfix/familiär
+meuf          # meuf: Verlan
+nada          # nada: spanisches Slangwort
+nana          # nana: familiär „Mädchen/Frau“, leicht herablassend
+nanas         # nanas: familiär „Mädchen/Frauen“
+naze          # naze: frz. Slang „nul“
+pet           # pet: Furz
+petard        # pétard: auch „Joint“/„Hintern“ (zweifel → ziel-nein)
+pete          # pète: furzen/kaputtgehen, familiär
+peter         # péter: furzen, familiär
+pif           # pif: familiär „Nase“
+pige          # pige: familiär „piger“ / Fachwort Presse
+pipi          # pipi: Kindersprache, Körperausscheidung
+pisse         # pisse: wie EN piss gültig, nie Ziel (still → ziel-nein)
+pisser        # pisser: wie EN piss (still → ziel-nein)
+planque       # planque: familiär „Versteck“
+pognon        # pognon: Geld
+poisse        # poisse: familiär „Pech“
+relou         # relou: Verlan
+taf           # taf: „Job“, Argot Frankreich
+taff          # taff: Schreibvariante von taf
+taule         # taule: „Knast“
+paris         # paris: Plural von pari, aber jeder liest die Hauptstadt (Name)
+
+# --- Kuratierung Durchgang 2 (2026-11-19): neue Zielformen nach Schwellen 3,1/3,5 (348 Formen)
+adonner       # adonner: selten/fachsprachlich: nur pronominal „s'adonner à“ geläufig, Infinitiv allein gehoben (zweifel → ziel-nein: nur in festen Wendungen bzw. Nebenbedeutung)
+affut         # affût: selten/fachsprachlich: allein nur in „à l'affût“, Grundbedeutung Geschützlafette
+agglo         # agglo: selten/fachsprachlich: Kurzform (aggloméré/agglomération), Frankreich-Fachjargon
+agora         # agora: selten/fachsprachlich: bildungssprachlich (antike Agora)
+agraire       # agraire: selten/fachsprachlich: nur „réforme agraire“, gehoben
+alfa          # alfa: selten/fachsprachlich: Halfagras, Botanik
+anemie        # anémie: Tod/Krankheit: Krankheitsname
+annexion      # annexion: Gewalt/Waffen/Krieg: Gebietsannexion, politisch-militärisch belastet
+antan         # antan: veraltet/literarisch: nur „d'antan“
+apache        # apache: Name/Marke/Ort: Volksname (Apachen)
+aumonier      # aumônier: Religion/Gruppe/Politik: kirchliches Amt, selten
+bastion       # bastion: Gewalt/Waffen/Krieg: Festungswerk
+batte         # batte: selten/fachsprachlich: Werkzeug/Baseballschläger, wenig geläufig
+bavarois      # bavarois: Name/Marke/Ort: Regionsadjektiv (Bayern), keine Nationalität
+biomasse      # biomasse: selten/fachsprachlich: Ökologie-Fachwort
+book          # book: Anglizismus ohne Alltagsgebrauch: Model-Portfolio
+branle        # branle: sexuell/anstößig: branler vulgär (masturbieren)
+bris          # bris: selten/fachsprachlich: Versicherungs-/Rechtssprache („bris de glace“)
+caca          # caca: vulgär/Argot: Fäkalwort (Kindersprache)
+cadastre      # cadastre: selten/fachsprachlich: Katasteramt
+califat       # califat: Religion/Gruppe/Politik: religiös-politisch belastet
+canons        # canons: Gewalt/Waffen/Krieg: Kanonen (Waffe)
+catch         # catch: regional: Frankreich (Québec sagt „lutte“), Anglizismus
+catho         # catho: Religion/Gruppe/Politik: umgangssprachliches Gruppenwort
+cavale        # cavale: vulgär/Argot: „en cavale“ (auf der Flucht), sonst veraltet (Stute)
+chanoine      # chanoine: Religion/Gruppe/Politik: kirchliches Amt, selten
+cheap         # cheap: Anglizismus ohne Alltagsgebrauch: umgangssprachlich, regional unterschiedlich (Québec „geizig“)
+chopper       # chopper: selten/fachsprachlich: Motorrad/Steinwerkzeug; Alltagsverb ist „choper“ mit einem p
+clerc         # clerc: selten/fachsprachlich: Kleriker/„clerc de notaire“
+clin          # clin: selten/fachsprachlich: allein nur in „clin d'œil“ (zweifel → ziel-nein: nur in festen Wendungen bzw. Nebenbedeutung)
+coco          # coco: Drogen: Alltagsbedeutung Kokosnuss, aber Nebenbedeutungen Kokain und abwertend „Kommunist“ (zweifel → ziel-nein: nur in festen Wendungen bzw. Nebenbedeutung)
+coke          # coke: Drogen: heute v. a. Kokain (Koks als Brennstoff veraltet)
+computer      # computer: selten/fachsprachlich: veraltetes Verb „berechnen“, sonst englisches Wort
+concile       # concile: Religion/Gruppe/Politik: Kirchenkonzil
+cross         # cross: Anglizismus ohne Alltagsgebrauch: in Frankreich üblich (Querfeldeinlauf), in Québec kaum (zweifel → ziel-nein: nur in festen Wendungen bzw. Nebenbedeutung)
+cruche        # cruche: abwertend: Krug, aber geläufig als Schimpfwort („quelle cruche“)
+derrick       # derrick: selten/fachsprachlich: Bohrturm, Anglizismus
+diacre        # diacre: Religion/Gruppe/Politik: kirchliches Amt, selten
+diocese       # diocèse: Religion/Gruppe/Politik: kirchlicher Verwaltungsbegriff
+discount      # discount: Anglizismus ohne Alltagsgebrauch: Frankreich/Belgien, Québec „escompte“
+douille       # douille: Gewalt/Waffen/Krieg: Patronenhülse; sonst Fachwort (Fassung)
+dumping       # dumping: Anglizismus ohne Alltagsgebrauch: Wirtschaftsjargon
+escouade      # escouade: Gewalt/Waffen/Krieg: militärische Einheit
+etendard      # étendard: Gewalt/Waffen/Krieg: Kriegsfahne, literarisch
+exit          # exit: Anglizismus ohne Alltagsgebrauch: Journalisten-Latinismus
+faction       # faction: Gewalt/Waffen/Krieg: bewaffnete/politische Splittergruppe, Wachdienst
+factions      # factions: Gewalt/Waffen/Krieg: Plural von faction
+flag          # flag: vulgär/Argot: „en flag“ (flagrant délit), Polizeiargot
+gaga          # gaga: abwertend: „senil“ (über alte Menschen)
+gamma         # gamma: selten/fachsprachlich: griechischer Buchstabe, Physik
+gaze          # gaze: Gewalt/Waffen/Krieg: gazer = vergasen; Nomen Gaze fachsprachlich
+genevois      # genevois: regional: Stadtadjektiv Genf
+germinal      # germinal: selten/fachsprachlich: Revolutionsmonat/Romantitel, sonst Biologie
+gueux         # gueux: veraltet/literarisch: Bettler, auch Schimpfwort
+halal         # halal: Religion/Gruppe/Politik: religiöse Vorschrift, politisch aufgeladen
+havane        # havane: selten/fachsprachlich: Zigarre/Farbton, von Ortsname
+helas         # hélas: Interjektion: Ausruf (Lemma fälschlich héler)
+holding       # holding: Anglizismus ohne Alltagsgebrauch: Wirtschaftsjargon
+home          # home: regional: Belgien/Schweiz (Heim), sonst englisches Wort
+houlette      # houlette: selten/fachsprachlich: nur „sous la houlette de“, gehoben
+house         # house: Anglizismus ohne Alltagsgebrauch: Musikgenre
+huis          # huis: veraltet/literarisch: nur „à huis clos“
+immiscer      # immiscer: selten/fachsprachlich: nur pronominal „s'immiscer“, Infinitiv allein ungewohnt (zweifel → ziel-nein: nur in festen Wendungen bzw. Nebenbedeutung)
+inter         # inter: Abkürzung: interrupteur/international/France Inter
+jacques       # jacques: Name/Marke/Ort: Vorname
+jesus         # jésus: Name/Marke/Ort: Eigenname, religiös
+joug          # joug: veraltet/literarisch: Joch, v. a. „sous le joug“
+jules         # jules: Name/Marke/Ort: Vorname, Argot für Freund
+killer        # killer: Gewalt/Waffen/Krieg: „Killer“, Anglizismus
+laps          # laps: selten/fachsprachlich: allein nur in „laps de temps“ (zweifel → ziel-nein: nur in festen Wendungen bzw. Nebenbedeutung)
+lego          # lego: Name/Marke/Ort: Marke
+legs          # legs: Tod/Krankheit: Vermächtnis per Testament; zudem Rechtssprache
+lester        # lester: selten/fachsprachlich: mit Ballast beschweren
+lillois       # lillois: regional: Stadtadjektiv Lille
+lorrain       # lorrain: regional: Regionsadjektiv Lothringen
+loulou        # loulou: regional: Frankreich-Koseform/Hunderasse
+martini       # martini: Name/Marke/Ort: Marke
+medoc         # médoc: Name/Marke/Ort: Weinregion; „médocs“ Argot für Medikamente
+metis         # métis: Religion/Gruppe/Politik: Abstammungsbezeichnung, heikel
+mimi          # mimi: regional: Frankreich/Belgien Kindersprache („mignon“), Québec kaum
+mono          # mono: Abkürzung: moniteur (colonie)/monophonique
+must          # must: Anglizismus ohne Alltagsgebrauch: „un must“, nur Frankreich
+nova          # nova: selten/fachsprachlich: Astronomie
+officine      # officine: selten/fachsprachlich: Apothekenlabor, abwertend „Hinterzimmer“
+offshore      # offshore: Anglizismus ohne Alltagsgebrauch: Finanz-/Technikjargon
+open          # open: Anglizismus ohne Alltagsgebrauch: „billet open“, Turniername
+oscars        # oscars: Name/Marke/Ort: Preisname (Marke)
+package       # package: Anglizismus ohne Alltagsgebrauch: Pauschalangebot
+para          # para: Abkürzung: parachutiste (Militär)
+peri          # péri: Tod/Krankheit: périr = umkommen
+pharma        # pharma: Abkürzung: Pharmaindustrie
+pitch         # pitch: Anglizismus ohne Alltagsgebrauch: Medien-/Startup-Jargon
+pontife       # pontife: Religion/Gruppe/Politik: Papsttitel, selten
+portage       # portage: selten/fachsprachlich: Fachbegriff (portage salarial, Kanu-Tragestrecke)
+pourvoi       # pourvoi: selten/fachsprachlich: Rechtssprache (Revision)
+prepa         # prépa: regional: nur Frankreich (classes préparatoires)
+prieur        # prieur: Religion/Gruppe/Politik: Klosteramt, selten
+psaume        # psaume: Religion/Gruppe/Politik: Psalm
+quant         # quant: veraltet/literarisch: nur in „quant à“ (wie clin, laps; Koordinator)
+rami          # rami: selten/fachsprachlich: Kartenspiel, wenig bekannt
+recel         # recel: selten/fachsprachlich: Strafrecht (Hehlerei)
+relaxe        # relaxe: selten/fachsprachlich: Freispruch (Rechtssprache)
+rennais       # rennais: regional: Stadtadjektiv Rennes
+rider         # rider: selten/fachsprachlich: „runzeln“ selten, sonst englisches Wort
+river         # river: selten/fachsprachlich: nieten; Infinitiv selten, leicht mit engl. „river“ verwechselt
+rocket        # rocket: Anglizismus ohne Alltagsgebrauch: Rucola/Rakete (Waffe)
+rosie         # rosie: seltene Flexionsform: Partizip fem. von rosir, zudem Vorname
+saigner       # saigner: Gewalt/Waffen/Krieg: bluten/zur Ader lassen
+saoudite      # saoudite: Name/Marke/Ort: nur „Arabie saoudite“, Nationalität ist saoudien
+schiste       # schiste: selten/fachsprachlich: Gesteinsart (Geologie)
+secu          # sécu: regional: nur Frankreich (Sécurité sociale)
+seller        # seller: selten/fachsprachlich: Pferd satteln, selten; engl. „seller“
+sierra        # sierra: Name/Marke/Ort: spanisches Wort, v. a. in Ortsnamen
+sionisme      # sionisme: Religion/Gruppe/Politik: politisch aufgeladen
+sioniste      # sioniste: Religion/Gruppe/Politik: politisch aufgeladen
+skin          # skin: Anglizismus ohne Alltagsgebrauch: Gaming-Jargon, auch Skinhead
+smart         # smart: Anglizismus ohne Alltagsgebrauch: Automarke
+spider        # spider: Anglizismus ohne Alltagsgebrauch: Cabrio-Fachwort
+stick         # stick: Anglizismus ohne Alltagsgebrauch: Hockeyschläger/Deo-Stift, uneinheitlich
+tata          # tata: abwertend: Québec „Dummkopf“, abwertend für Homosexuelle; Kindersprache
+tong          # tong: regional: Frankreich (Québec „gougoune“, Belgien „tongs“ nur Plural)
+topo          # topo: regional: Frankreich-umgangssprachlich („faire un topo“)
+trip          # trip: Drogen: Drogenrausch, Anglizismus
+tronche       # tronche: vulgär/Argot: Visage (salopp)
+truck         # truck: Anglizismus ohne Alltagsgebrauch: Lkw/Skateboard-Achse
+trust         # trust: Anglizismus ohne Alltagsgebrauch: Wirtschaftsjargon (Konzern)
+tune          # tune: vulgär/Argot: „thune“ (Geld), Argot; Lemma tuné
+twist         # twist: Anglizismus ohne Alltagsgebrauch: Tanz der 1960er
+update        # update: Anglizismus ohne Alltagsgebrauch: frz. „mise à jour“
+vaudou        # vaudou: Religion/Gruppe/Politik: Religion
+verset        # verset: Religion/Gruppe/Politik: Bibel-/Koranvers, keine Alltagsbedeutung außerhalb religiöser Texte (zweifel → ziel-nein: nur in festen Wendungen bzw. Nebenbedeutung)
+yard          # yard: Anglizismus ohne Alltagsgebrauch: angloamerikanische Maßeinheit
+
+# --- nach der Codex-Prüfung (2026-11-19), Linie wie EN (kill, gun, war, weapon, dead, death nie Ziel;
+# soldier, army, sword, ghost bleiben Ziel): direkte Waffen-/Todeswörter
+desarme       # désarmé: Entwaffnung, direkter Waffenbezug
+blinde        # blindé: Panzer/gepanzert
+creve         # crève: vulgär „sterben“ (Reifenpanne als Nebenlesart rettet es nicht)
+noye          # noyé: ertrunken
+fronde        # fronde: Schleuder (Waffe) bzw. Aufstand
+# feste Wendung (wie clin, laps, quant)
+marre         # marre: nur in „en avoir marre“
+psyche        # psyché: Fachwort/Spiegel, Bekanntheit unsicher (Codex)
+serge         # serge: Stoff kaum bekannt, Zipf vom Vornamen (Codex)

@@ -1,0 +1,389 @@
+# Formen (Steinschreibung), die im Zielwortschatz stehen MÜSSEN, sofern sie gültig sind (Sicherheitsnetz:
+# Alltagswörter, die eine Regel sonst träfe; Themenwörter der Wunschliste). Ein Eintrag setzt sich über
+# jede Regel hinweg außer den Sperren — also nie eine nur-regionale Form (septante) oder die seltenere
+# Schreibung eines Reformpaars (ognon) eintragen. Format: form  # Grund
+
+# --- Kuratierung Durchgang 1 (2026-11-18): Alltagswörter aus Natur und Haushalt, die die Agenten als fehlend
+# meldeten („# fehlt:“) und die gültig sind; meist knapp unter der Häufigkeitsschwelle (Zipf 2,8–3,1).
+abricot       # abricot: Alltagswort, von der Kuratierung als fehlend gemeldet
+agrume        # agrume: Alltagswort, von der Kuratierung als fehlend gemeldet
+algue         # algue: Alltagswort, von der Kuratierung als fehlend gemeldet
+anis          # anis: Alltagswort, von der Kuratierung als fehlend gemeldet
+arbuste       # arbuste: Alltagswort, von der Kuratierung als fehlend gemeldet
+arrosoir      # arrosoir: Alltagswort, von der Kuratierung als fehlend gemeldet
+asperge       # asperge: Alltagswort, von der Kuratierung als fehlend gemeldet
+averse        # averse: Alltagswort, von der Kuratierung als fehlend gemeldet
+beignet       # beignet: Alltagswort, von der Kuratierung als fehlend gemeldet
+bercer        # bercer: Alltagswort, von der Kuratierung als fehlend gemeldet
+biscotte      # biscotte: Alltagswort, von der Kuratierung als fehlend gemeldet
+bosquet       # bosquet: Alltagswort, von der Kuratierung als fehlend gemeldet
+bourgeon      # bourgeon: Alltagswort, von der Kuratierung als fehlend gemeldet
+buche         # bûche: Alltagswort, von der Kuratierung als fehlend gemeldet
+buee          # buée: Alltagswort, von der Kuratierung als fehlend gemeldet
+carafe        # carafe: Alltagswort, von der Kuratierung als fehlend gemeldet
+cedre         # cèdre: Alltagswort, von der Kuratierung als fehlend gemeldet
+celeri        # céleri: Alltagswort, von der Kuratierung als fehlend gemeldet
+cerisier      # cerisier: Alltagswort, von der Kuratierung als fehlend gemeldet
+cigale        # cigale: Alltagswort, von der Kuratierung als fehlend gemeldet
+cigogne       # cigogne: Alltagswort, von der Kuratierung als fehlend gemeldet
+copeau        # copeau: Alltagswort, von der Kuratierung als fehlend gemeldet
+courge        # courge: Alltagswort, von der Kuratierung als fehlend gemeldet
+cresson       # cresson: Alltagswort, von der Kuratierung als fehlend gemeldet
+criniere      # crinière: Alltagswort, von der Kuratierung als fehlend gemeldet
+criquet       # criquet: Alltagswort, von der Kuratierung als fehlend gemeldet
+cumin         # cumin: Alltagswort, von der Kuratierung als fehlend gemeldet
+cypres        # cyprès: Alltagswort, von der Kuratierung als fehlend gemeldet
+daim          # daim: Alltagswort, von der Kuratierung als fehlend gemeldet
+datte         # datte: Alltagswort, von der Kuratierung als fehlend gemeldet
+dindon        # dindon: Alltagswort, von der Kuratierung als fehlend gemeldet
+dragee        # dragée: Alltagswort, von der Kuratierung als fehlend gemeldet
+ecluse        # écluse: Alltagswort, von der Kuratierung als fehlend gemeldet
+ecolier       # écolier: Alltagswort, von der Kuratierung als fehlend gemeldet
+ecrin         # écrin: Alltagswort, von der Kuratierung als fehlend gemeldet
+edredon       # édredon: Alltagswort, von der Kuratierung als fehlend gemeldet
+enclos        # enclos: Alltagswort, von der Kuratierung als fehlend gemeldet
+epinard       # épinard: Alltagswort, von der Kuratierung als fehlend gemeldet
+escabeau      # escabeau: Alltagswort, von der Kuratierung als fehlend gemeldet
+etau          # étau: Alltagswort, von der Kuratierung als fehlend gemeldet
+fagot         # fagot: Alltagswort, von der Kuratierung als fehlend gemeldet
+faisan        # faisan: Alltagswort, von der Kuratierung als fehlend gemeldet
+faon          # faon: Alltagswort, von der Kuratierung als fehlend gemeldet
+fenouil       # fenouil: Alltagswort, von der Kuratierung als fehlend gemeldet
+feve          # fève: Alltagswort, von der Kuratierung als fehlend gemeldet
+figue         # figue: Alltagswort, von der Kuratierung als fehlend gemeldet
+figuier       # figuier: Alltagswort, von der Kuratierung als fehlend gemeldet
+flamant       # flamant: Alltagswort, von der Kuratierung als fehlend gemeldet
+flocon        # flocon: Alltagswort, von der Kuratierung als fehlend gemeldet
+fougere       # fougère: Alltagswort, von der Kuratierung als fehlend gemeldet
+frelon        # frelon: Alltagswort, von der Kuratierung als fehlend gemeldet
+frene         # frêne: Alltagswort, von der Kuratierung als fehlend gemeldet
+galet         # galet: Alltagswort, von der Kuratierung als fehlend gemeldet
+gaufre        # gaufre: Alltagswort, von der Kuratierung als fehlend gemeldet
+glacon        # glaçon: Alltagswort, von der Kuratierung als fehlend gemeldet
+goeland       # goéland: Alltagswort, von der Kuratierung als fehlend gemeldet
+grillon       # grillon: Alltagswort, von der Kuratierung als fehlend gemeldet
+guepe         # guêpe: Alltagswort, von der Kuratierung als fehlend gemeldet
+hamac         # hamac: Alltagswort, von der Kuratierung als fehlend gemeldet
+heron         # héron: Alltagswort, von der Kuratierung als fehlend gemeldet
+hetre         # hêtre: Alltagswort, von der Kuratierung als fehlend gemeldet
+houx          # houx: Alltagswort, von der Kuratierung als fehlend gemeldet
+huitre        # huître: Alltagswort, von der Kuratierung als fehlend gemeldet
+jacinthe      # jacinthe: Alltagswort, von der Kuratierung als fehlend gemeldet
+laitue        # laitue: Alltagswort, von der Kuratierung als fehlend gemeldet
+lierre        # lierre: Alltagswort, von der Kuratierung als fehlend gemeldet
+limace        # limace: Alltagswort, von der Kuratierung als fehlend gemeldet
+loutre        # loutre: Alltagswort, von der Kuratierung als fehlend gemeldet
+luciole       # luciole: Alltagswort, von der Kuratierung als fehlend gemeldet
+lutin         # lutin: Alltagswort, von der Kuratierung als fehlend gemeldet
+marmotte      # marmotte: Alltagswort, von der Kuratierung als fehlend gemeldet
+mesange       # mésange: Alltagswort, von der Kuratierung als fehlend gemeldet
+miette        # miette: Alltagswort, von der Kuratierung als fehlend gemeldet
+mimosa        # mimosa: Alltagswort, von der Kuratierung als fehlend gemeldet
+moineau       # moineau: Alltagswort, von der Kuratierung als fehlend gemeldet
+mouette       # mouette: Alltagswort, von der Kuratierung als fehlend gemeldet
+moufle        # moufle: Alltagswort, von der Kuratierung als fehlend gemeldet
+muguet        # muguet: Alltagswort, von der Kuratierung als fehlend gemeldet
+myrtille      # myrtille: Alltagswort, von der Kuratierung als fehlend gemeldet
+narine        # narine: Alltagswort, von der Kuratierung als fehlend gemeldet
+navet         # navet: Alltagswort, von der Kuratierung als fehlend gemeldet
+nenuphar      # nénuphar: Alltagswort, von der Kuratierung als fehlend gemeldet
+orme          # orme: Alltagswort, von der Kuratierung als fehlend gemeldet
+ortie         # ortie: Alltagswort, von der Kuratierung als fehlend gemeldet
+osier         # osier: Alltagswort, von der Kuratierung als fehlend gemeldet
+oursin        # oursin: Alltagswort, von der Kuratierung als fehlend gemeldet
+parasol       # parasol: Alltagswort, von der Kuratierung als fehlend gemeldet
+paupiere      # paupière: Alltagswort, von der Kuratierung als fehlend gemeldet
+pelote        # pelote: Alltagswort, von der Kuratierung als fehlend gemeldet
+petale        # pétale: Alltagswort, von der Kuratierung als fehlend gemeldet
+peuplier      # peuplier: Alltagswort, von der Kuratierung als fehlend gemeldet
+pieuvre       # pieuvre: Alltagswort, von der Kuratierung als fehlend gemeldet
+pinson        # pinson: Alltagswort, von der Kuratierung als fehlend gemeldet
+pivoine       # pivoine: Alltagswort, von der Kuratierung als fehlend gemeldet
+poireau       # poireau: Alltagswort, von der Kuratierung als fehlend gemeldet
+poivron       # poivron: Alltagswort, von der Kuratierung als fehlend gemeldet
+pommier       # pommier: Alltagswort, von der Kuratierung als fehlend gemeldet
+potage        # potage: Alltagswort, von der Kuratierung als fehlend gemeldet
+potiron       # potiron: Alltagswort, von der Kuratierung als fehlend gemeldet
+prunier       # prunier: Alltagswort, von der Kuratierung als fehlend gemeldet
+radis         # radis: Alltagswort, von der Kuratierung als fehlend gemeldet
+rape          # râpé: Alltagswort, von der Kuratierung als fehlend gemeldet
+rateau        # râteau: Alltagswort, von der Kuratierung als fehlend gemeldet
+recoin        # recoin: Alltagswort, von der Kuratierung als fehlend gemeldet
+reglisse      # réglisse: Alltagswort, von der Kuratierung als fehlend gemeldet
+rhubarbe      # rhubarbe: Alltagswort, von der Kuratierung als fehlend gemeldet
+romarin       # romarin: Alltagswort, von der Kuratierung als fehlend gemeldet
+ronce         # ronce: Alltagswort, von der Kuratierung als fehlend gemeldet
+roseau        # roseau: Alltagswort, von der Kuratierung als fehlend gemeldet
+rosee         # rosée: Alltagswort, von der Kuratierung als fehlend gemeldet
+rosier        # rosier: Alltagswort, von der Kuratierung als fehlend gemeldet
+saladier      # saladier: Alltagswort, von der Kuratierung als fehlend gemeldet
+sandale       # sandale: Alltagswort, von der Kuratierung als fehlend gemeldet
+sardine       # sardine: Alltagswort, von der Kuratierung als fehlend gemeldet
+saule         # saule: Alltagswort, von der Kuratierung als fehlend gemeldet
+semoule       # semoule: Alltagswort, von der Kuratierung als fehlend gemeldet
+sofa          # sofa: Alltagswort, von der Kuratierung als fehlend gemeldet
+sorbet        # sorbet: Alltagswort, von der Kuratierung als fehlend gemeldet
+soucoupe      # soucoupe: Alltagswort, von der Kuratierung als fehlend gemeldet
+spatule       # spatule: Alltagswort, von der Kuratierung als fehlend gemeldet
+tamis         # tamis: Alltagswort, von der Kuratierung als fehlend gemeldet
+theiere       # théière: Alltagswort, von der Kuratierung als fehlend gemeldet
+thym          # thym: Alltagswort, von der Kuratierung als fehlend gemeldet
+tilleul       # tilleul: Alltagswort, von der Kuratierung als fehlend gemeldet
+toboggan      # toboggan: Alltagswort, von der Kuratierung als fehlend gemeldet
+toupie        # toupie: Alltagswort, von der Kuratierung als fehlend gemeldet
+tresse        # tresse: Alltagswort, von der Kuratierung als fehlend gemeldet
+tuile         # tuile: Alltagswort, von der Kuratierung als fehlend gemeldet
+tulipe        # tulipe: Alltagswort, von der Kuratierung als fehlend gemeldet
+verglas       # verglas: Alltagswort, von der Kuratierung als fehlend gemeldet
+verveine      # verveine: Alltagswort, von der Kuratierung als fehlend gemeldet
+zebre         # zèbre: Alltagswort, von der Kuratierung als fehlend gemeldet
+zeste         # zeste: Alltagswort, von der Kuratierung als fehlend gemeldet
+
+# --- Themenwörter aus Tools/levelgen/themes-fr/wunschliste.tsv (2026-11-19): passen zum Ort, gültig,
+# Rad tragfähig, kein hartes Sperrwort; meist Plurale konkreter Naturwörter knapp unter der Schwelle.
+# Nicht übernommen: provence (Name), topiaire, courlis (selten), bécasse (auch Schimpfwort), farines,
+# souffles (Plural ungewöhnlich), polders (fachsprachlich).
+agneaux       # agneaux: Themenwort (bauernhof)
+algues        # algues: Themenwort (watt)
+alouette      # alouette: Themenwort (kornfeld)
+alpage        # alpage: Themenwort (alm)
+alpages       # alpages: Themenwort (alm)
+amarre        # amarré: Themenwort (hafen)
+antilope      # antilope: Themenwort (savanne)
+arches        # arches: Themenwort (fluss)
+aurores       # aurores: Themenwort (eismeer)
+averses       # averses: Themenwort (wolken)
+baleines      # baleines: Themenwort (eismeer)
+balises       # balises: Themenwort (watt)
+banquise      # banquise: Themenwort (eismeer)
+barques       # barques: Themenwort (see)
+basalte       # basalte: Themenwort (vulkan)
+bassins       # bassins: Themenwort (schlossgarten)
+berge         # berge: Themenwort (wiesental)
+bergers       # bergers: Themenwort (alm)
+bleuet        # bleuet: Themenwort (kornfeld)
+bleuets       # bleuets: Themenwort (kornfeld)
+bouees        # bouées: Themenwort (hafen)
+bouleau       # bouleau: Themenwort (moor)
+bouquets      # bouquets: Themenwort (blumenwiese)
+bourdons      # bourdons: Themenwort (blumenwiese)
+brochet       # brochet: Themenwort (see)
+broderie      # broderie: Themenwort (schlossgarten)
+brumeux       # brumeux: Themenwort (moor)
+cabanes       # cabanes: Themenwort (insel)
+canards       # canards: Themenwort (see)
+canopee       # canopée: Themenwort (urwald)
+carpes        # carpes: Themenwort (teich)
+cascades      # cascades: Themenwort (wasserfall)
+cendres       # cendres: Themenwort (vulkan)
+cerises       # cerises: Themenwort (obstwiese)
+chalets       # chalets: Themenwort (alm)
+chameaux      # chameaux: Themenwort (wueste)
+chamois       # chamois: Themenwort (alm)
+chenal        # chenal: Themenwort (watt)
+chenes        # chênes: Themenwort (wald)
+chevres       # chèvres: Themenwort (alm)
+cigales       # cigales: Themenwort (lavendel)
+compost       # compost: Themenwort (garten)
+compote       # compote: Themenwort (obstwiese)
+coussins      # coussins: Themenwort (allgemein)
+crabes        # crabes: Themenwort (watt)
+crapauds      # crapauds: Themenwort (teich)
+crateres      # cratères: Themenwort (vulkan)
+creneaux      # créneaux: Themenwort (burg)
+cretes        # crêtes: Themenwort (gebirge)
+crique        # crique: Themenwort (kueste)
+criques       # criques: Themenwort (kueste)
+dattes        # dattes: Themenwort (wueste)
+deserts       # déserts: Themenwort (wueste)
+dunes         # dunes: Themenwort (watt)
+echelles      # échelles: Themenwort (schlucht)
+eclairs       # éclairs: Themenwort (wolken)
+ecluses       # écluses: Themenwort (muehle)
+embrun        # embrun: Themenwort (kueste)
+embruns       # embruns: Themenwort (kueste)
+etable        # étable: Themenwort (bauernhof)
+etables       # étables: Themenwort (bauernhof)
+etangs        # étangs: Themenwort (teich)
+etroites      # étroites: Themenwort (schlucht)
+falaises      # falaises: Themenwort (fjord)
+faucille      # faucille: Themenwort (kornfeld)
+flaque        # flaque: Themenwort (watt)
+flaques       # flaques: Themenwort (watt)
+fleurie       # fleurie: Themenwort (obstwiese)
+flocons       # flocons: Themenwort (winter)
+fougeres      # fougères: Themenwort (wasserfall)
+galets        # galets: Themenwort (wiesental)
+gazelle       # gazelle: Themenwort (savanne)
+gazelles      # gazelles: Themenwort (savanne)
+genets        # genêts: Themenwort (heide)
+girafes       # girafes: Themenwort (savanne)
+glaciers      # glaciers: Themenwort (gebirge)
+glacons       # glaçons: Themenwort (winter)
+granges       # granges: Themenwort (bauernhof)
+grincer       # grincer: Themenwort (muehle)
+grottes       # grottes: Themenwort (schlucht)
+hamecon       # hameçon: Themenwort (see)
+haricot       # haricot: Themenwort (garten)
+hetres        # hêtres: Themenwort (wald)
+huitres       # huîtres: Themenwort (watt)
+icebergs      # icebergs: Themenwort (eismeer)
+landes        # landes: Themenwort (heide)
+lavande       # lavande: Themenwort (lavendel)
+lavandes      # lavandes: Themenwort (lavendel)
+lavoir        # lavoir: Themenwort (dorf)
+lezards       # lézards: Themenwort (wueste)
+lionnes       # lionnes: Themenwort (savanne)
+manchot       # manchot: Themenwort (eismeer)
+manchots      # manchots: Themenwort (eismeer)
+marcheur      # marcheur: Themenwort (gebirge)
+marees        # marées: Themenwort (watt)
+marrons       # marrons: Themenwort (herbstwald)
+meandre       # méandre: Themenwort (fluss)
+meule         # meule: Themenwort (wiesental)
+meules        # meules: Themenwort (kornfeld)
+meunier       # meunier: Themenwort (muehle)
+meuniere      # meunière: Themenwort (muehle)
+mirages       # mirages: Themenwort (wueste)
+mouettes      # mouettes: Themenwort (insel)
+moules        # moules: Themenwort (watt)
+moulins       # moulins: Themenwort (kornfeld)
+mousses       # mousses: Themenwort (moor)
+mures         # mûres: Themenwort (wald)
+nageurs       # nageurs: Themenwort (see)
+neigeux       # neigeux: Themenwort (winter)
+nomades       # nomades: Themenwort (wueste)
+olivier       # olivier: Themenwort (lavendel)
+oliviers      # oliviers: Themenwort (lavendel)
+orageux       # orageux: Themenwort (wolken)
+orchidee      # orchidée: Themenwort (urwald)
+palmiers      # palmiers: Themenwort (wueste)
+paniers       # paniers: Themenwort (obstwiese)
+patiner       # patiner: Themenwort (winter)
+patins        # patins: Themenwort (winter)
+pelouses      # pelouses: Themenwort (park)
+peniche       # péniche: Themenwort (fluss)
+perdrix       # perdrix: Themenwort (heide)
+persil        # persil: Themenwort (garten)
+petales       # pétales: Themenwort (obstwiese)
+phoques       # phoques: Themenwort (watt)
+piolet        # piolet: Themenwort (gebirge)
+poires        # poires: Themenwort (obstwiese)
+pontons       # pontons: Themenwort (see)
+pousses       # pousses: Themenwort (garten)
+pressoir      # pressoir: Themenwort (olivenhain)
+prunes        # prunes: Themenwort (obstwiese)
+reflets       # reflets: Themenwort (see)
+refuges       # refuges: Themenwort (gebirge)
+rivages       # rivages: Themenwort (watt)
+roseaux       # roseaux: Themenwort (see)
+roseraie      # roseraie: Themenwort (schlossgarten)
+rosiers       # rosiers: Themenwort (schlossgarten)
+ruches        # ruches: Themenwort (obstwiese)
+ruelles       # ruelles: Themenwort (dorf)
+sapins        # sapins: Themenwort (wald)
+saules        # saules: Themenwort (wiesental)
+seigle        # seigle: Themenwort (kornfeld)
+semis         # semis: Themenwort (garten)
+sillons       # sillons: Themenwort (kornfeld)
+torrents      # torrents: Themenwort (wasserfall)
+toucans       # toucans: Themenwort (urwald)
+tourbe        # tourbe: Themenwort (moor)
+traineau      # traîneau: Themenwort (winter)
+tuiles        # tuiles: Themenwort (dorf)
+tulipes       # tulipes: Themenwort (fruehling)
+vergers       # vergers: Themenwort (obstwiese)
+volcans       # volcans: Themenwort (vulkan)
+
+# --- Themenwörter, zweite Runde (2026-11-19). Nicht übernommen: ancrés, casiers (Lesart unklar), fangeux,
+# sableux, ondulé, automnal (selten), épeautre, lavandin, clapier (fachsprachlich).
+aigles        # aigles: Themenwort (fjord)
+bergere       # bergère: Themenwort (alm)
+berges        # berges: Themenwort (fluss)
+bonnets       # bonnets: Themenwort (winter)
+braises       # braises: Themenwort (vulkan)
+brumes        # brumes: Themenwort (wolken)
+buffles       # buffles: Themenwort (savanne)
+clotures      # clôtures: Themenwort (deich)
+coings        # coings: Themenwort (obstwiese)
+cordee        # cordée: Themenwort (gebirge)
+crayons       # crayons: Themenwort (allgemein)
+dindons       # dindons: Themenwort (bauernhof)
+douves        # douves: Themenwort (burg)
+eboulis       # éboulis: Themenwort (gebirge)
+echarpes      # écharpes: Themenwort (winter)
+ecorces       # écorces: Themenwort (wald)
+erables       # érables: Themenwort (herbstwald)
+fleuries      # fleuries: Themenwort (blumenwiese)
+fleuris       # fleuris: Themenwort (obstwiese)
+froment       # froment: Themenwort (kornfeld)
+girolles      # girolles: Themenwort (herbstwald)
+goelands      # goélands: Themenwort (insel)
+guepards      # guépards: Themenwort (savanne)
+hiboux        # hiboux: Themenwort (wald)
+labours       # labours: Themenwort (kornfeld)
+lievres       # lièvres: Themenwort (heide)
+melezes       # mélèzes: Themenwort (alm)
+mitaines      # mitaines: Themenwort (winter)
+moissons      # moissons: Themenwort (kornfeld)
+moufles       # moufles: Themenwort (winter)
+nageuse       # nageuse: Themenwort (see)
+ombrage       # ombrage: Themenwort (wald)
+pagaie        # pagaie: Themenwort (see)
+paturage      # pâturage: Themenwort (deich)
+platane       # platane: Themenwort (dorf)
+platanes      # platanes: Themenwort (park)
+pommiers      # pommiers: Themenwort (fruehling)
+ponton        # ponton: Themenwort (see)
+rameaux       # rameaux: Themenwort (wald)
+rameur        # rameur: Themenwort (see)
+renards       # renards: Themenwort (wald)
+sachets       # sachets: Themenwort (lavendel)
+savanes       # savanes: Themenwort (savanne)
+tartes        # tartes: Themenwort (obstwiese)
+tetards       # têtards: Themenwort (teich)
+tourelle      # tourelle: Themenwort (burg)
+trefles       # trèfles: Themenwort (blumenwiese)
+truites       # truites: Themenwort (fluss)
+vapeurs       # vapeurs: Themenwort (vulkan)
+
+# --- Themenwörter, dritte Runde (2026-11-19), vor allem 7–8 Buchstaben für die Bögen 31–40.
+# Nicht übernommen: balustre (selten), marquise (Adelstitel).
+arctique      # arctique: Themenwort (eismeer)
+ardente       # ardente: Themenwort (vulkan)
+bananier      # bananier: Themenwort (urwald)
+basaltes      # basaltes: Themenwort (vulkan)
+bosquets      # bosquets: Themenwort (schlossgarten)
+brulante      # brûlante: Themenwort (vulkan)
+canots        # canots: Themenwort (see)
+canyons       # canyons: Themenwort (schlucht)
+cordage       # cordage: Themenwort (hafen)
+coulees       # coulées: Themenwort (vulkan)
+ecarlate      # écarlate: Themenwort (vulkan)
+glaciale      # glaciale: Themenwort (eismeer)
+gouffres      # gouffres: Themenwort (schlucht)
+grimpeur      # grimpeur: Themenwort (schlucht)
+herbages      # herbages: Themenwort (savanne)
+jungles       # jungles: Themenwort (urwald)
+lagune        # lagune: Themenwort (insel)
+marecage      # marécage: Themenwort (deich)
+mousson       # mousson: Themenwort (urwald)
+pature        # pâture: Themenwort (alm)
+safaris       # safaris: Themenwort (savanne)
+thermale      # thermale: Themenwort (vulkan)
+vautours      # vautours: Themenwort (savanne)
+
+
+# --- nach der Codex-Prüfung (2026-11-19): klare Lücken. Entfernt: estran (Fachwort), aulne, chênaie,
+# aigrette (Bekanntheit in allen vier Regionen unsicher; bleiben Extrawörter).
+sucrer        # sucrer: Küchenverb
+fendue        # fendue: une bûche fendue
+ecourte       # écourté: séjour écourté
+signons       # signons: gewöhnliche Präsens-/Imperativform
+consonne      # consonne: Schulwort (Zipf 3,04)
+the           # thé: Alltagswort; Anzeige thé (schreibung-vorrang), wordfreq zählt das englische the
+celle         # celle: Pronomen (der Namensfilter drückte es)
+telle         # telle: Adjektiv/Pronomen (Namensfilter)
+communes      # communes: Plural/Femininum (Namensfilter)
+noeuds        # nœuds: Plural von nœud (war fälschlich still gesperrt)
+pitbull       # pitbull: Hunderasse, überall bekannt

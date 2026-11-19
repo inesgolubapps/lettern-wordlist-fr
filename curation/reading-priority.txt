@@ -1,0 +1,3 @@
+# Erste Lesart (Lemma in Steinschreibung und Wortart der ersten ziel.tsv-Zeile) von Hand festlegen, wo die
+# Reihenfolge in build_lexicon_fr.py (Lexique-Häufigkeit der Lesart) die unwahrscheinlichere wählt. Wirkt
+# nur auf die Reihenfolge, nie darauf, ob eine Form Ziel ist. Format: form  lemma[:wortart]  # Grund
